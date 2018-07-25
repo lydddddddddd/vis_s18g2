@@ -16,11 +16,11 @@ function load_map_view() {
 
     var svg = d3.select("#map_view").append("svg")
         .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom);
+        .attr("height", height + margin.top + margin.bottom)
+        .call(tool_tip);
 
     var svg_zoom = svg.append("g")
-                    .call(zoom)
-                    .call(tool_tip);
+                    .call(zoom);
 
     var projection = d3.geo.mercator()
         .scale((width + 1) * 0.95 / 2 / Math.PI)
@@ -49,7 +49,7 @@ function load_map_view() {
             .attr("class", "choropleth")
             .attr("d", path);
       
-        var g = svg_zoom.append("g");
+        var g = svg_zoom.append("g").call(tool_tip);
       
         g.append("path")
             .datum({type: "LineString", coordinates: [[-180, 0], [-90, 0], [0, 0], [90, 0], [180, 0]]})
@@ -67,11 +67,11 @@ function load_map_view() {
                 .attr("fill-opacity", "0.3")
                 .style("fill", "#000099")
                 // .style("fill", function(d) { return d.properties.color; })
-                //.on("mouseover", function(d) {
-                //    $(this).attr("fill-opacity", "1.0")
-                //    tool_tip.show
-                //})
-                .on("mouseover", tool_tip.show)
+                .on("mouseover", function(d) {
+                    $(this).attr("fill-opacity", "1.0")
+                    tool_tip.show
+                })
+                //.on("mouseover", tool_tip.show)
                 .on("mouseout", function(d) {
                     $(this).attr("fill-opacity", "0.3")
                     tool_tip.hide
