@@ -4,7 +4,7 @@
 		{
 			"year" : 2014,
 			"name" : "Germany",
-			"chileren" : [
+			"children" : [
 				{
 					"name" : "Germany",
 					"children" : [
@@ -131,7 +131,7 @@
 											]
 										},
 										{
-											"name" : "Maxico",
+											"name" : "Mexico",
 											"children" : [
 												{"name" : "Brazil", "size" : 1},
 												{"name" : "Croatia", "size" : 1},
