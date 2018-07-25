@@ -1,0 +1,225 @@
+{
+	"name" : "tree_data",
+	"data" : [
+		{
+			"year" : 2014,
+			"name" : "Germany",
+			"chileren" : [
+				{
+					"name" : "Germany",
+					"children" : [
+						{
+							"name" : "Brazil",
+							"children" : [
+								{
+									"name" : "Brazil",
+									"children" : [
+										{
+											"name" : "Brazil",
+											"children" : [
+												{"name" : "Brazil", "size" : 1},
+												{"name" : "Croatia", "size" : 1},
+												{"name" : "Mexico", "size" : 1},
+												{"name" : "Cameroon", "size" : 1}
+											]
+										},
+										{
+											"name" : "Chile",
+											"children" : [
+												{"name" : "Spain", "size" : 1},
+												{"name" : "Netherlands", "size" : 1},
+												{"name" : "Chile", "size" : 1},
+												{"name" : "Australia", "size" : 1}
+											]
+										}
+									]
+								},
+								{
+									"name" : "Colombia",
+									"children" : [
+										{
+											"name" : "Colombia",
+											"children" : [
+												{"name" : "Colombia", "size" : 1},
+												{"name" : "Greece", "size" : 1},
+												{"name" : "Côte d'Ivoire", "size" : 1},
+												{"name" : "Japan", "size" : 1}
+											]
+										},
+										{
+											"name" : "Uruguay",
+											"children" : [
+												{"name" : "Uruguay", "size" : 1},
+												{"name" : "Costa Rica", "size" : 1},
+												{"name" : "England", "size" : 1},
+												{"name" : "Italy", "size" : 1}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"name" : "Germany",
+							"children" : [
+								{
+									"name" : "France",
+									"children" : [
+										{
+											"name" : "France",
+											"children" : [
+												{"name" : "Switzerland", "size" : 1},
+												{"name" : "Ecuador", "size" : 1},
+												{"name" : "France", "size" : 1},
+												{"name" : "Honduras", "size" : 1}
+											]
+										},
+										{
+											"name" : "Nigeria",
+											"children" : [
+												{"name" : "Argentina", "size" : 1},
+												{"name" : "Bosnia-Herzegovina", "size" : 1},
+												{"name" : "Iran", "size" : 1},
+												{"name" : "Nigeria", "size" : 1}
+											]
+										}
+									]
+								},
+								{
+									"name" : "Germany",
+									"children" : [
+										{
+											"name" : "Germany",
+											"children" : [
+												{"name" : "Germany", "size" : 1},
+												{"name" : "Portugal", "size" : 1},
+												{"name" : "Ghana", "size" : 1},
+												{"name" : "United States", "size" : 1}
+											]
+										},
+										{
+											"name" : "Algeria",
+											"children" : [
+												{"name" : "Belgium", "size" : 1},
+												{"name" : "Algeria", "size" : 1},
+												{"name" : "Russia", "size" : 1},
+												{"name" : "South Korea", "size" : 1}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name" : "Argentina",
+					"children" : [
+						{
+							"name" : "Netherlands",
+							"children" : [
+								{
+									"name" : "Netherlands",
+									"children" : [
+										{
+											"name" : "Netherlands",
+											"children" : [
+												{"name" : "Spain", "size" : 1},
+												{"name" : "Netherlands", "size" : 1},
+												{"name" : "Chile", "size" : 1},
+												{"name" : "Australia", "size" : 1}
+											]
+										},
+										{
+											"name" : "Maxico",
+											"children" : [
+												{"name" : "Brazil", "size" : 1},
+												{"name" : "Croatia", "size" : 1},
+												{"name" : "Mexico", "size" : 1},
+												{"name" : "Cameroon", "size" : 1}
+											]
+										}
+									]
+								},
+								{
+									"name" : "Costa Rica",
+									"children" : [
+										{
+											"name" : "Costa Rica",
+											"children" : [
+												{"name" : "Uruguay", "size" : 1},
+												{"name" : "Costa Rica", "size" : 1},
+												{"name" : "England", "size" : 1},
+												{"name" : "Italy", "size" : 1}
+											]
+										},
+										{
+											"name" : "Greece",
+											"children" : [
+												{"name" : "Colombia", "size" : 1},
+												{"name" : "Greece", "size" : 1},
+												{"name" : "Côte d'Ivoire", "size" : 1},
+												{"name" : "Japan", "size" : 1}
+											]
+										}
+									]
+								}	
+							]
+						},
+						{
+							"name" : "Argentina",
+							"children" : [
+								{
+									"name" : "Argentina",
+									"children" : [
+										{
+											"name" : "Argentina",
+											"children" : [
+												{"name" : "Argentina", "size" : 1},
+												{"name" : "Bosnia-Herzegovina", "size" : 1},
+												{"name" : "Iran", "size" : 1},
+												{"name" : "Nigeria", "size" : 1}
+											]
+										},
+										{
+											"name" : "Switzerland",
+											"children" : [
+												{"name" : "Switzerland", "size" : 1},
+												{"name" : "Ecuador", "size" : 1},
+												{"name" : "France", "size" : 1},
+												{"name" : "Honduras", "size" : 1}
+											]
+										}
+									]
+								},
+								{
+									"name" : "Belgium",
+									"children" : [
+										{
+											"name" : "Belgium",
+											"children" : [
+												{"name" : "Belgium", "size" : 1},
+												{"name" : "Algeria", "size" : 1},
+												{"name" : "Russia", "size" : 1},
+												{"name" : "South Korea", "size" : 1}
+											]
+										},
+										{
+											"name" : "United States",
+											"children" : [
+												{"name" : "Germany", "size" : 1},
+												{"name" : "Portugal", "size" : 1},
+												{"name" : "Ghana", "size" : 1},
+												{"name" : "United States", "size" : 1}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
