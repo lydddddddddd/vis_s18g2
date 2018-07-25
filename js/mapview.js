@@ -3,21 +3,31 @@ function load_map_view() {
     var width = document.getElementById("map_view").clientWidth - margin.left - margin.right;
     var height = document.getElementById("map_view").clientHeight - margin.top - margin.bottom;
 
+    var zoom = d3.behavior.zoom()
+                .scaleExtent([1,5])
+                .on("zoom", zoomed);
+
     var svg = d3.select("#map_view").append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
 
-    var path = d3.geo.path()
-        .projection(projection);
+    var svg_zoom = svg.append("g").call(zoom);
 
     var projection = d3.geo.mercator()
-        .scale((width + 1) / 2 / Math.PI)
-        .translate([width / 2, height / 2])
+        .scale((width + 1) * 0.95 / 2 / Math.PI)
+        .translate([width / 2, height * 1.42 / 2])
         .precision(.1);
-      
-    var graticule = d3.geo.graticule();
 
-    svg.append("path")
+    var path = d3.geo.path()
+        .projection(projection); 
+
+    var graticule = d3.geo.graticule();
+ 
+    function zoomed() {
+        $(this).attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+    }
+
+    svg_zoom.append("path")
         .datum(graticule)
         .attr("class", "graticule")
         .attr("d", path);
@@ -25,12 +35,12 @@ function load_map_view() {
     d3.json("json/world-topo-min.json", function(error, world) {
     	var countries = topojson.feature(world, world.objects.countries).features;
 
-    	svg.append("path")
+    	svg_zoom.append("path")
             .datum(graticule)
             .attr("class", "choropleth")
             .attr("d", path);
       
-        var g = svg.append("g");
+        var g = svg_zoom.append("g");
       
         g.append("path")
             .datum({type: "LineString", coordinates: [[-180, 0], [-90, 0], [0, 0], [90, 0], [180, 0]]})
@@ -38,5 +48,27 @@ function load_map_view() {
             .attr("d", path);
       
         var country = g.selectAll(".country").data(countries);
+  
+        country.enter().insert("path")
+                .attr("class", "country")
+                .attr("d", path)
+                .attr("id", function(d,i) { return d.id; })
+                .attr("title", function(d) { return d.properties.name; })
+                .attr("fill-opacity", "0.3")
+                .style("fill", "#000099")
+                .on("mousemove", function(d) {
+                    $(this).attr("fill-opacity", "1.0")
+                })
+                .on("mouseout", function(d) {
+                    $(this).attr("fill-opacity", "0.3")
+                });
+            
+        g.append("path")
+            .datum(topojson.mesh(world, world.objects.countries, function(a, b) { return a !== b; }))
+            .attr("class", "boundary")
+            .attr("d", path)
+            .style("fill", "none")
+            .style("stroke", "#FFFFFF")
+            .style("stroke-width", "1px");
     });
 }
