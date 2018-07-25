@@ -7,11 +7,20 @@ function load_map_view() {
                 .scaleExtent([1,5])
                 .on("zoom", zoomed);
 
+    var tool_tip = d3.tip()
+                    .attr("class", "d3-tip")
+                    .offset([-8, 0])
+                    .html(function(d) {
+                        return "<span style='color:white'>" + d.properties.name + "</span>";
+                    });
+
     var svg = d3.select("#map_view").append("svg")
         .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
+        .attr("height", height + margin.top + margin.bottom);
 
-    var svg_zoom = svg.append("g").call(zoom);
+    var svg_zoom = svg.append("g")
+                    .call(zoom)
+                    .call(tool_tip);
 
     var projection = d3.geo.mercator()
         .scale((width + 1) * 0.95 / 2 / Math.PI)
@@ -47,20 +56,28 @@ function load_map_view() {
             .attr("class", "equator")
             .attr("d", path);
       
-        var country = g.selectAll(".country").data(countries);
+        //var country = g.selectAll(".country").data(countries);
   
-        country.enter().insert("path")
+        //country
+        g.selectAll(".country").data(countries).enter().insert("path")
                 .attr("class", "country")
                 .attr("d", path)
                 .attr("id", function(d,i) { return d.id; })
                 .attr("title", function(d) { return d.properties.name; })
                 .attr("fill-opacity", "0.3")
                 .style("fill", "#000099")
-                .on("mousemove", function(d) {
-                    $(this).attr("fill-opacity", "1.0")
-                })
+                // .style("fill", function(d) { return d.properties.color; })
+                //.on("mouseover", function(d) {
+                //    $(this).attr("fill-opacity", "1.0")
+                //    tool_tip.show
+                //})
+                .on("mouseover", tool_tip.show)
                 .on("mouseout", function(d) {
                     $(this).attr("fill-opacity", "0.3")
+                    tool_tip.hide
+                })
+                .on("click", function(d) {
+                    console.log(d.properties.name);
                 });
             
         g.append("path")
