@@ -833,14 +833,67 @@ years,team_a,team_b,score_a,score_b,pk_a,pk_b
 2014,Netherlands,Argentina,0,0,2,4
 2014,Brazil,Netherlands,0,3,0,0
 2014,Germany,Argentina,1,0,0,0
+2018,Russia,Saudi Arabia,5,0,0,0
+2018,Egypt,Uruguay,0,1,0,0
 2018,Russia,Egypt,3,1,0,0
 2018,Uruguay,Saudi Arabia,1,0,0,0
+2018,Uruguay,Russia,3,0,0,0
+2018,Saudi Aribia,Egypt,2,1,0,0
+2018,Morocco,Iran,0,1,0,0
+2018,Portugal,Spain,3,3,0,0
 2018,Portugal,Morocco,1,0,0,0
 2018,Iran,Spain,0,1,0,0
+2018,Iran,Portugal,1,1,0,0
+2018,Spain,Morocco,2,2,0,0
+2018,France,Australia,2,1,0,0
+2018,Peru,Denmark,0,1,0,0
+2018,Denmark,Australia,1,1,0,0
+2018,France,Peru,1,0,0,0
+2018,Denmark,France,0,0,0,0
+2018,Australia,Peru,0,2,0,0
+2018,Argentia,Iceland,1,1,0,0
+2018,Croatia,Nigeria,2,0,0,0
+2018,Argentia,Croatia,0,3,0,0
+2018,Nigeria,Iceland,2,0,0,0
+2018,Nigeria,Argentia,1,2,0,0
+2018,Iceland,Croatia,1,2,0,0
 2018,Costa Rica,Serbia,0,1,0,0
+2018,Brazil,Switzerland,1,1,0,0
+2018,Brazil,Costa Rica,0,2,0,0
+2018,Serbia,Switzerland,1,2,0,0
+2018,Serbia,Brazil,0,2,0,0
+2018,Swizerland,Costa Rica,2,2,0,0
 2018,Germany,Mexico,0,1,0,0
 2018,Sweden,South Korea,1,0,0,0
+2018,South Korea,Mexico,1,2,0,0
+2018,Germany,Sweden,2,1,0,0
+2018,South Korea,Germany,2,0,0,0
+2018,Mexico,Sweden,0,3,0,0
 2018,Belgium,Panama,3,0,0,0
 2018,Tunisia,England,1,2,0,0
+2018,Belgium,Tunisia,5,2,0,0
+2018,England,Panama,6,1,0,0
+2018,England,Belgium,0,1,0,0
+2018,Panama,Tunisia,1,2,0,0
 2018,Colombia,Japan,1,2,0,0
 2018,Poland,Senegal,1,2,0,0
+2018,Japan,Senegal,2,2,0,0
+2018,Poland,Colombia,0,3,0,0
+2018,Japan,Poland,0,1,0,0
+2018,Senegal,Colombia,0,1,0,0
+2018,France,Argentia,4,3,0,0
+2018,Uruguay,Portugal,2,1,0,0
+2018,Spain,Russia,1,1,3,4
+2018,Croatia,Denmark,1,1,3,2
+2018,Brazil,Mexico,2,0,0,0
+2018,Belgium,Japan,3,2,0,0
+2018,Sweden,Switzerland,1,0,0,0
+2018,Colombia,England,1,1,3,4
+2018,Uruguay,France,0,2,0,0
+2018,Brazil,Belgium,1,2,0,0
+2018,Sweden,England,0,2,0,0
+2018,Russia,Croatia,2,2,3,4
+2018,France,Belgium,1,0,0,0
+2018,Croatia,England,2,1,0,0
+2018,Belgium,England,2,0,0,0
+2018,France,Croatia,4,2,0,0
