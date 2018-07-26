@@ -5,7 +5,7 @@ var sunburst_treeview = {
         var margin = {top: 10, right: 10, bottom: 10, left: 10},
             width = sunburstWidth - margin.left - margin.right,
             height = sunburstWidth - margin.top - margin.bottom;
-        var  radius = Math.min(width, height) / 2-50,
+        var  radius = Math.min(width, height) / 2-60,
             color = d3.scale.category20c();
         var svg = d3.select("#tree_view").append("svg")
             .attr("width",width)
@@ -23,12 +23,12 @@ var sunburst_treeview = {
             .outerRadius(function(d) { return Math.sqrt(d.y + d.dy); });
 
         // read data
-        d3.json("json/promotion_route.json",function(error, root){
+        d3.json("json/promotion_tree.json",function(error, root){
             if(error) throw error;
-            console.log(root.data[0])
-            champion_name = root.data[0].name;
+            console.log(root.data[1])
+            champion_name = root.data[1].name;
 
-            var path = svg.datum(root.data[0]).selectAll(".arc_path")
+            var path = svg.datum(root.data[1]).selectAll(".arc_path")
                 .data(partition.nodes)
                 .enter().append("path")
                 .attr("class","arc_path")
