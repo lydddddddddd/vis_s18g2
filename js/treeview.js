@@ -27,6 +27,7 @@ var sunburst_treeview = {
             if(error) throw error;
             console.log(root.data[0])
             champion_name = root.data[0].name;
+
             var path = svg.datum(root.data[0]).selectAll(".arc_path")
                 .data(partition.nodes)
                 .enter().append("path")
@@ -58,12 +59,14 @@ var sunburst_treeview = {
                     
                 })
                 .on("mouseout", function(d){
+
                     selectedpath = d3.selectAll(".arc_path")
                     selectedpath.style("opacity", 1)
                                 
                     
                 })
                 .each(stash);
+
             console.log(champion_name)
             var champion_text = svg.append("text")
                                     .attr("class","text")
@@ -72,6 +75,7 @@ var sunburst_treeview = {
                                     .text(champion_name)
                                     .attr("font-size","20px")
                                     .attr("fill","white")
+
             d3.selectAll("input").on("change",function change(){
                 var value = this.value === "count"? function(){return 1}:function(d){return d.size};
                 path.data(partition.value(value).nodes)
@@ -93,6 +97,7 @@ var sunburst_treeview = {
                 return arc(b);
             };
         }
+
     }
 }
 sunburst_treeview.initialize();

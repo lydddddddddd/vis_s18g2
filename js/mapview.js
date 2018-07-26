@@ -69,12 +69,13 @@ function load_map_view() {
                 // .style("fill", function(d) { return d.properties.color; })
                 .on("mouseover", function(d) {
                     $(this).attr("fill-opacity", "1.0")
-                    tool_tip.show
+                    tool_tip.show(d.properties.name)
                 })
                 //.on("mouseover", tool_tip.show)
                 .on("mouseout", function(d) {
                     $(this).attr("fill-opacity", "0.3")
-                    tool_tip.hide
+                    d3.selectAll(".d3-tip").style("opacity", 0)
+                    // tool_tip.hide
                 })
                 .on("click", function(d) {
                     console.log(d.properties.name);

@@ -1,0 +1,3677 @@
+{
+    "data": [
+        {
+            "children": [
+                {
+                    "name": "Argentina", 
+                    "children": [
+                        {
+                            "name": "Argentina", 
+                            "children": [
+                                {
+                                    "name": "Argentina", 
+                                    "children": [
+                                        {
+                                            "name": "Argentina", 
+                                            "children": [
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Bulgaria", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Uruguay", 
+                                            "children": [
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Denmark", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Scotland", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "England", 
+                                    "children": [
+                                        {
+                                            "name": "England", 
+                                            "children": [
+                                                {
+                                                    "name": "Portugal", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Morocco", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Poland", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Paraguay", 
+                                            "children": [
+                                                {
+                                                    "name": "Paraguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Iraq", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Belgium", 
+                            "children": [
+                                {
+                                    "name": "Spain", 
+                                    "children": [
+                                        {
+                                            "name": "Denmark", 
+                                            "children": [
+                                                {
+                                                    "name": "Scotland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Denmark", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Spain", 
+                                            "children": [
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ireland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Algeria", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Belgium", 
+                                    "children": [
+                                        {
+                                            "name": "Russian Federation", 
+                                            "children": [
+                                                {
+                                                    "name": "Russian Federation", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Hungary", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "France", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Canada", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Belgium", 
+                                            "children": [
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Iraq", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Paraguay", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Germany", 
+                    "children": [
+                        {
+                            "name": "France", 
+                            "children": [
+                                {
+                                    "name": "Brazil", 
+                                    "children": [
+                                        {
+                                            "name": "Brazil", 
+                                            "children": [
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Algeria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ireland", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Poland", 
+                                            "children": [
+                                                {
+                                                    "name": "Morocco", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Poland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Portugal", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "France", 
+                                    "children": [
+                                        {
+                                            "name": "Italy", 
+                                            "children": [
+                                                {
+                                                    "name": "Bulgaria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "France", 
+                                            "children": [
+                                                {
+                                                    "name": "Canada", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "France", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Russian Federation", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Hungary", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Germany", 
+                            "children": [
+                                {
+                                    "name": "Germany", 
+                                    "children": [
+                                        {
+                                            "name": "Morocco", 
+                                            "children": [
+                                                {
+                                                    "name": "Morocco", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Poland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Portugal", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Germany", 
+                                            "children": [
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Scotland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Denmark", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Mexico", 
+                                    "children": [
+                                        {
+                                            "name": "Mexico", 
+                                            "children": [
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Paraguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Iraq", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Bulgaria", 
+                                            "children": [
+                                                {
+                                                    "name": "Bulgaria"
+                                                }, 
+                                                {
+                                                    "name": "Italy"
+                                                }, 
+                                                {
+                                                    "name": "South Korea"
+                                                }, 
+                                                {
+                                                    "name": "Argentina"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ], 
+            "name": "Argentina", 
+            "year": 1986
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Germany", 
+                    "children": [
+                        {
+                            "name": "Germany", 
+                            "children": [
+                                {
+                                    "name": "Germany", 
+                                    "children": [
+                                        {
+                                            "name": "Germany", 
+                                            "children": [
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Yugoslavia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "United Arab Emirates", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Colombia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Netherlands", 
+                                            "children": [
+                                                {
+                                                    "name": "Netherlands", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Egypt", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ireland", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Czech Republic", 
+                                    "children": [
+                                        {
+                                            "name": "Czech Republic", 
+                                            "children": [
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Czech Republic", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Austria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Costa Rica", 
+                                            "children": [
+                                                {
+                                                    "name": "Costa Rica", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Scotland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Sweden", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "England", 
+                            "children": [
+                                {
+                                    "name": "England", 
+                                    "children": [
+                                        {
+                                            "name": "England", 
+                                            "children": [
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ireland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Netherlands", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Egypt", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Belgium", 
+                                            "children": [
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Cameroon", 
+                                    "children": [
+                                        {
+                                            "name": "Cameroon", 
+                                            "children": [
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Cameroon", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Romania", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Russian Federation", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Colombia", 
+                                            "children": [
+                                                {
+                                                    "name": "United Arab Emirates", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Colombia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Yugoslavia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Argentina", 
+                    "children": [
+                        {
+                            "name": "Italy", 
+                            "children": [
+                                {
+                                    "name": "Italy", 
+                                    "children": [
+                                        {
+                                            "name": "Italy", 
+                                            "children": [
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Austria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Czech Republic", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Uruguay", 
+                                            "children": [
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Ireland", 
+                                    "children": [
+                                        {
+                                            "name": "Ireland", 
+                                            "children": [
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ireland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Egypt", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Netherlands", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Romania", 
+                                            "children": [
+                                                {
+                                                    "name": "Russian Federation", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Romania", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Cameroon", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Argentina", 
+                            "children": [
+                                {
+                                    "name": "Yugoslavia", 
+                                    "children": [
+                                        {
+                                            "name": "Spain", 
+                                            "children": [
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Yugoslavia", 
+                                            "children": [
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Yugoslavia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Colombia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "United Arab Emirates", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Argentina", 
+                                    "children": [
+                                        {
+                                            "name": "Brazil", 
+                                            "children": [
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Sweden", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Costa Rica", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Scotland", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Argentina", 
+                                            "children": [
+                                                {
+                                                    "name": "Argentina"
+                                                }, 
+                                                {
+                                                    "name": "Cameroon"
+                                                }, 
+                                                {
+                                                    "name": "Russian Federation"
+                                                }, 
+                                                {
+                                                    "name": "Romania"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ], 
+            "name": "Germany", 
+            "year": 1990
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Brazil", 
+                    "children": [
+                        {
+                            "name": "Sweden", 
+                            "children": [
+                                {
+                                    "name": "Romania", 
+                                    "children": [
+                                        {
+                                            "name": "Romania", 
+                                            "children": [
+                                                {
+                                                    "name": "Colombia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Romania", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Switzerland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Argentina", 
+                                            "children": [
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Greece", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Nigeria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Bulgaria", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Sweden", 
+                                    "children": [
+                                        {
+                                            "name": "Saudi Arabia", 
+                                            "children": [
+                                                {
+                                                    "name": "Netherlands", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Saudi Arabia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Morocco", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Sweden", 
+                                            "children": [
+                                                {
+                                                    "name": "Cameroon", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Sweden", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Russian Federation", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Brazil", 
+                            "children": [
+                                {
+                                    "name": "Netherlands", 
+                                    "children": [
+                                        {
+                                            "name": "Netherlands", 
+                                            "children": [
+                                                {
+                                                    "name": "Netherlands", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Saudi Arabia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Morocco", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Ireland", 
+                                            "children": [
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ireland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Norway", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Brazil", 
+                                    "children": [
+                                        {
+                                            "name": "Brazil", 
+                                            "children": [
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Russian Federation", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Cameroon", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Sweden", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "United States", 
+                                            "children": [
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Switzerland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Colombia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Romania", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Italy", 
+                    "children": [
+                        {
+                            "name": "Bulgaria", 
+                            "children": [
+                                {
+                                    "name": "Bulgaria", 
+                                    "children": [
+                                        {
+                                            "name": "Mexico", 
+                                            "children": [
+                                                {
+                                                    "name": "Norway", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ireland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Bulgaria", 
+                                            "children": [
+                                                {
+                                                    "name": "Nigeria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Bulgaria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Greece", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Germany", 
+                                    "children": [
+                                        {
+                                            "name": "Germany", 
+                                            "children": [
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Bolivia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Belgium", 
+                                            "children": [
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Morocco", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Netherlands", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Saudi Arabia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Italy", 
+                            "children": [
+                                {
+                                    "name": "Italy", 
+                                    "children": [
+                                        {
+                                            "name": "Nigeria", 
+                                            "children": [
+                                                {
+                                                    "name": "Nigeria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Bulgaria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Greece", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Italy", 
+                                            "children": [
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ireland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Norway", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Spain", 
+                                    "children": [
+                                        {
+                                            "name": "Spain", 
+                                            "children": [
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Bolivia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Switzerland", 
+                                            "children": [
+                                                {
+                                                    "name": "United States"
+                                                }, 
+                                                {
+                                                    "name": "Switzerland"
+                                                }, 
+                                                {
+                                                    "name": "Romania"
+                                                }, 
+                                                {
+                                                    "name": "Colombia"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ], 
+            "name": "Brazil", 
+            "year": 1994
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Brazil", 
+                    "children": [
+                        {
+                            "name": "Brazil", 
+                            "children": [
+                                {
+                                    "name": "Brazil", 
+                                    "children": [
+                                        {
+                                            "name": "Brazil", 
+                                            "children": [
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Scotland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Morocco", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Norway", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Chile", 
+                                            "children": [
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Chile", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Austria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Cameroon", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Denmark", 
+                                    "children": [
+                                        {
+                                            "name": "Nigeria", 
+                                            "children": [
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Nigeria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Bulgaria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Paraguay", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Denmark", 
+                                            "children": [
+                                                {
+                                                    "name": "Saudi Arabia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Denmark", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Africa", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "France", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Netherlands", 
+                            "children": [
+                                {
+                                    "name": "Netherlands", 
+                                    "children": [
+                                        {
+                                            "name": "Netherlands", 
+                                            "children": [
+                                                {
+                                                    "name": "Netherlands", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Yugoslavia", 
+                                            "children": [
+                                                {
+                                                    "name": "Yugoslavia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Iran", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Argentina", 
+                                    "children": [
+                                        {
+                                            "name": "Argentina", 
+                                            "children": [
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Japan", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Jamaica", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Croatia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "England", 
+                                            "children": [
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Tunisia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Romania", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Colombia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "France", 
+                    "children": [
+                        {
+                            "name": "France", 
+                            "children": [
+                                {
+                                    "name": "Italy", 
+                                    "children": [
+                                        {
+                                            "name": "Italy", 
+                                            "children": [
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Chile", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Cameroon", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Austria", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Norway", 
+                                            "children": [
+                                                {
+                                                    "name": "Morocco", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Norway", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Scotland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "France", 
+                                    "children": [
+                                        {
+                                            "name": "France", 
+                                            "children": [
+                                                {
+                                                    "name": "France", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Africa", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Saudi Arabia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Denmark", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Paraguay", 
+                                            "children": [
+                                                {
+                                                    "name": "Paraguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Bulgaria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Nigeria", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Croatia", 
+                            "children": [
+                                {
+                                    "name": "Germany", 
+                                    "children": [
+                                        {
+                                            "name": "Germany", 
+                                            "children": [
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Yugoslavia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Iran", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Mexico", 
+                                            "children": [
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Netherlands", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Croatia", 
+                                    "children": [
+                                        {
+                                            "name": "Romania", 
+                                            "children": [
+                                                {
+                                                    "name": "Romania", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Colombia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Tunisia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Croatia", 
+                                            "children": [
+                                                {
+                                                    "name": "Jamaica"
+                                                }, 
+                                                {
+                                                    "name": "Croatia"
+                                                }, 
+                                                {
+                                                    "name": "Japan"
+                                                }, 
+                                                {
+                                                    "name": "Argentina"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ], 
+            "name": "France", 
+            "year": 1998
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Germany", 
+                    "children": [
+                        {
+                            "name": "Germany", 
+                            "children": [
+                                {
+                                    "name": "Germany", 
+                                    "children": [
+                                        {
+                                            "name": "Germany", 
+                                            "children": [
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Saudi Arabia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ireland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Cameroon", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Paraguay", 
+                                            "children": [
+                                                {
+                                                    "name": "Paraguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Africa", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Slovenia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "United States", 
+                                    "children": [
+                                        {
+                                            "name": "Mexico", 
+                                            "children": [
+                                                {
+                                                    "name": "Croatia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ecuador", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "United States", 
+                                            "children": [
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Portugal", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Poland", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "South Korea", 
+                            "children": [
+                                {
+                                    "name": "Spain", 
+                                    "children": [
+                                        {
+                                            "name": "Spain", 
+                                            "children": [
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Slovenia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Paraguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Africa", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Ireland", 
+                                            "children": [
+                                                {
+                                                    "name": "Ireland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Cameroon", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Saudi Arabia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "South Korea", 
+                                    "children": [
+                                        {
+                                            "name": "South Korea", 
+                                            "children": [
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Poland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Portugal", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Italy", 
+                                            "children": [
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ecuador", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Croatia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Brazil", 
+                    "children": [
+                        {
+                            "name": "Brazil", 
+                            "children": [
+                                {
+                                    "name": "England", 
+                                    "children": [
+                                        {
+                                            "name": "Denmark", 
+                                            "children": [
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Denmark", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Senegal", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "France", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "England", 
+                                            "children": [
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Sweden", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Nigeria", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Brazil", 
+                                    "children": [
+                                        {
+                                            "name": "Brazil", 
+                                            "children": [
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Turkey", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "China", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Costa Rica", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Belgium", 
+                                            "children": [
+                                                {
+                                                    "name": "Japan", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Tunisia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Russian Federation", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Turkey", 
+                            "children": [
+                                {
+                                    "name": "Senegal", 
+                                    "children": [
+                                        {
+                                            "name": "Sweden", 
+                                            "children": [
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Sweden", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Nigeria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Senegal", 
+                                            "children": [
+                                                {
+                                                    "name": "France", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Senegal", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Denmark", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Turkey", 
+                                    "children": [
+                                        {
+                                            "name": "Japan", 
+                                            "children": [
+                                                {
+                                                    "name": "Japan", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Russian Federation", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Tunisia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Turkey", 
+                                            "children": [
+                                                {
+                                                    "name": "Brazil"
+                                                }, 
+                                                {
+                                                    "name": "Turkey"
+                                                }, 
+                                                {
+                                                    "name": "Costa Rica"
+                                                }, 
+                                                {
+                                                    "name": "China"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ], 
+            "name": "Brazil", 
+            "year": 2002
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Italy", 
+                    "children": [
+                        {
+                            "name": "Germany", 
+                            "children": [
+                                {
+                                    "name": "Germany", 
+                                    "children": [
+                                        {
+                                            "name": "Germany", 
+                                            "children": [
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Costa Rica", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Poland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ecuador", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Sweden", 
+                                            "children": [
+                                                {
+                                                    "name": "Trinidad and Tobago", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Sweden", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Paraguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Italy", 
+                                    "children": [
+                                        {
+                                            "name": "Italy", 
+                                            "children": [
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ghana", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Czech Republic", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Australia", 
+                                            "children": [
+                                                {
+                                                    "name": "Australia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Japan", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Croatia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Italy", 
+                            "children": [
+                                {
+                                    "name": "Italy", 
+                                    "children": [
+                                        {
+                                            "name": "Italy", 
+                                            "children": [
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ghana", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Czech Republic", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Australia", 
+                                            "children": [
+                                                {
+                                                    "name": "Australia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Japan", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Croatia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Ukraine", 
+                                    "children": [
+                                        {
+                                            "name": "Switzerland", 
+                                            "children": [
+                                                {
+                                                    "name": "France", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Switzerland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Togo", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Ukraine", 
+                                            "children": [
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ukraine", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Saudi Arabia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Tunisia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "France", 
+                    "children": [
+                        {
+                            "name": "Portugal", 
+                            "children": [
+                                {
+                                    "name": "England", 
+                                    "children": [
+                                        {
+                                            "name": "England", 
+                                            "children": [
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Paraguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Trinidad and Tobago", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Sweden", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Ecuador", 
+                                            "children": [
+                                                {
+                                                    "name": "Poland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ecuador", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Costa Rica", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Portugal", 
+                                    "children": [
+                                        {
+                                            "name": "Portugal", 
+                                            "children": [
+                                                {
+                                                    "name": "Angola", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Portugal", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Iran", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Netherlands", 
+                                            "children": [
+                                                {
+                                                    "name": "Serbia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Netherlands", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "C\u00f4te d'Ivoire", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "France", 
+                            "children": [
+                                {
+                                    "name": "Brazil", 
+                                    "children": [
+                                        {
+                                            "name": "Brazil", 
+                                            "children": [
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Croatia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Australia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Japan", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Ghana", 
+                                            "children": [
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ghana", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Czech Republic", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "France", 
+                                    "children": [
+                                        {
+                                            "name": "Spain", 
+                                            "children": [
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ukraine", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Tunisia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Saudi Arabia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "France", 
+                                            "children": [
+                                                {
+                                                    "name": "France"
+                                                }, 
+                                                {
+                                                    "name": "Switzerland"
+                                                }, 
+                                                {
+                                                    "name": "South Korea"
+                                                }, 
+                                                {
+                                                    "name": "Togo"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ], 
+            "name": "Italy", 
+            "year": 2006
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Netherlands", 
+                    "children": [
+                        {
+                            "name": "Uruguay", 
+                            "children": [
+                                {
+                                    "name": "Uruguay", 
+                                    "children": [
+                                        {
+                                            "name": "Uruguay", 
+                                            "children": [
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "France", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Africa", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "South Korea", 
+                                            "children": [
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Greece", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Nigeria", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Ghana", 
+                                    "children": [
+                                        {
+                                            "name": "United States", 
+                                            "children": [
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Slovenia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Algeria", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Ghana", 
+                                            "children": [
+                                                {
+                                                    "name": "Serbia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ghana", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Australia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Netherlands", 
+                            "children": [
+                                {
+                                    "name": "Netherlands", 
+                                    "children": [
+                                        {
+                                            "name": "Netherlands", 
+                                            "children": [
+                                                {
+                                                    "name": "Netherlands", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Denmark", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Japan", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Cameroon", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Slovakia", 
+                                            "children": [
+                                                {
+                                                    "name": "New Zealand", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Slovakia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Paraguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Brazil", 
+                                    "children": [
+                                        {
+                                            "name": "Brazil", 
+                                            "children": [
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "North Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "C\u00f4te d'Ivoire", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Portugal", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Chile", 
+                                            "children": [
+                                                {
+                                                    "name": "Honduras", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Chile", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Switzerland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Spain", 
+                    "children": [
+                        {
+                            "name": "Germany", 
+                            "children": [
+                                {
+                                    "name": "Argentina", 
+                                    "children": [
+                                        {
+                                            "name": "Argentina", 
+                                            "children": [
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Nigeria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Greece", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Mexico", 
+                                            "children": [
+                                                {
+                                                    "name": "South Africa", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "France", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Germany", 
+                                    "children": [
+                                        {
+                                            "name": "Germany", 
+                                            "children": [
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Australia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Serbia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ghana", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "England", 
+                                            "children": [
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Algeria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Slovenia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Spain", 
+                            "children": [
+                                {
+                                    "name": "Paraguay", 
+                                    "children": [
+                                        {
+                                            "name": "Paraguay", 
+                                            "children": [
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Paraguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Slovakia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "New Zealand", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Japan", 
+                                            "children": [
+                                                {
+                                                    "name": "Japan", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Cameroon", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Netherlands", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Denmark", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Spain", 
+                                    "children": [
+                                        {
+                                            "name": "Spain", 
+                                            "children": [
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Switzerland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Honduras", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Chile", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Portugal", 
+                                            "children": [
+                                                {
+                                                    "name": "C\u00f4te d'Ivoire"
+                                                }, 
+                                                {
+                                                    "name": "Portugal"
+                                                }, 
+                                                {
+                                                    "name": "North Korea"
+                                                }, 
+                                                {
+                                                    "name": "Brazil"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ], 
+            "name": "Spain", 
+            "year": 2010
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Germany", 
+                    "children": [
+                        {
+                            "name": "Brazil", 
+                            "children": [
+                                {
+                                    "name": "Brazil", 
+                                    "children": [
+                                        {
+                                            "name": "Brazil", 
+                                            "children": [
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Croatia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Cameroon", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Chile", 
+                                            "children": [
+                                                {
+                                                    "name": "Chile", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Australia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Netherlands", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Colombia", 
+                                    "children": [
+                                        {
+                                            "name": "Colombia", 
+                                            "children": [
+                                                {
+                                                    "name": "Colombia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Greece", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "C\u00f4te d'Ivoire", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Japan", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Uruguay", 
+                                            "children": [
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Costa Rica", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Germany", 
+                            "children": [
+                                {
+                                    "name": "France", 
+                                    "children": [
+                                        {
+                                            "name": "France", 
+                                            "children": [
+                                                {
+                                                    "name": "France", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Honduras", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Switzerland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ecuador", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Nigeria", 
+                                            "children": [
+                                                {
+                                                    "name": "Iran", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Nigeria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Bosnia and Herzegovina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Germany", 
+                                    "children": [
+                                        {
+                                            "name": "Germany", 
+                                            "children": [
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Portugal", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ghana", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "United States", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Algeria", 
+                                            "children": [
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Algeria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Russian Federation", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Argentina", 
+                    "children": [
+                        {
+                            "name": "Netherlands", 
+                            "children": [
+                                {
+                                    "name": "Netherlands", 
+                                    "children": [
+                                        {
+                                            "name": "Netherlands", 
+                                            "children": [
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Netherlands", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Australia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Chile", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Mexico", 
+                                            "children": [
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Cameroon", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Croatia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Costa Rica", 
+                                    "children": [
+                                        {
+                                            "name": "Costa Rica", 
+                                            "children": [
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Costa Rica", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Italy", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Greece", 
+                                            "children": [
+                                                {
+                                                    "name": "Colombia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Greece", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Japan", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "C\u00f4te d'Ivoire", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Argentina", 
+                            "children": [
+                                {
+                                    "name": "Argentina", 
+                                    "children": [
+                                        {
+                                            "name": "Argentina", 
+                                            "children": [
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Bosnia and Herzegovina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Iran", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Nigeria", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Switzerland", 
+                                            "children": [
+                                                {
+                                                    "name": "Switzerland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Ecuador", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "France", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Honduras", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Belgium", 
+                                    "children": [
+                                        {
+                                            "name": "Belgium", 
+                                            "children": [
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Algeria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Russian Federation", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "United States", 
+                                            "children": [
+                                                {
+                                                    "name": "Ghana"
+                                                }, 
+                                                {
+                                                    "name": "United States"
+                                                }, 
+                                                {
+                                                    "name": "Portugal"
+                                                }, 
+                                                {
+                                                    "name": "Germany"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ], 
+            "name": "Germany", 
+            "year": 2014
+        }, 
+        {
+            "children": [
+                {
+                    "name": "France", 
+                    "children": [
+                        {
+                            "name": "France", 
+                            "children": [
+                                {
+                                    "name": "Uruguay", 
+                                    "children": [
+                                        {
+                                            "name": "Uruguay", 
+                                            "children": [
+                                                {
+                                                    "name": "Egypt", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Saudi Arabia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Russian Federation", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Portugal", 
+                                            "children": [
+                                                {
+                                                    "name": "Portugal", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Morocco", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Iran", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "France", 
+                                    "children": [
+                                        {
+                                            "name": "France", 
+                                            "children": [
+                                                {
+                                                    "name": "France", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Australia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Peru", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Denmark", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Argentina", 
+                                            "children": [
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Iceland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Croatia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Nigeria", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "Belgium", 
+                            "children": [
+                                {
+                                    "name": "Brazil", 
+                                    "children": [
+                                        {
+                                            "name": "Brazil", 
+                                            "children": [
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Switzerland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Costa Rica", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Serbia", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Mexico", 
+                                            "children": [
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Sweden", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Belgium", 
+                                    "children": [
+                                        {
+                                            "name": "Belgium", 
+                                            "children": [
+                                                {
+                                                    "name": "Belgium", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Panama", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Tunisia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "England", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Japan", 
+                                            "children": [
+                                                {
+                                                    "name": "Colombia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Japan", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Senegal", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Poland", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Croatia", 
+                    "children": [
+                        {
+                            "name": "Croatia", 
+                            "children": [
+                                {
+                                    "name": "Russian Federation", 
+                                    "children": [
+                                        {
+                                            "name": "Spain", 
+                                            "children": [
+                                                {
+                                                    "name": "Portugal", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Spain", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Iran", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Morocco", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Russian Federation", 
+                                            "children": [
+                                                {
+                                                    "name": "Russian Federation", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Saudi Arabia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Egypt", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Uruguay", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "Croatia", 
+                                    "children": [
+                                        {
+                                            "name": "Croatia", 
+                                            "children": [
+                                                {
+                                                    "name": "Croatia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Nigeria", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Argentina", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Iceland", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Denmark", 
+                                            "children": [
+                                                {
+                                                    "name": "Peru", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Denmark", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Australia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "France", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "England", 
+                            "children": [
+                                {
+                                    "name": "Sweden", 
+                                    "children": [
+                                        {
+                                            "name": "Sweden", 
+                                            "children": [
+                                                {
+                                                    "name": "Sweden", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "South Korea", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Germany", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Mexico", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Switzerland", 
+                                            "children": [
+                                                {
+                                                    "name": "Brazil", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Switzerland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Serbia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Costa Rica", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "England", 
+                                    "children": [
+                                        {
+                                            "name": "Colombia", 
+                                            "children": [
+                                                {
+                                                    "name": "Colombia", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Japan", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Poland", 
+                                                    "size": 1
+                                                }, 
+                                                {
+                                                    "name": "Senegal", 
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "England", 
+                                            "children": [
+                                                {
+                                                    "name": "Tunisia"
+                                                }, 
+                                                {
+                                                    "name": "England"
+                                                }, 
+                                                {
+                                                    "name": "Panama"
+                                                }, 
+                                                {
+                                                    "name": "Belgium"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ], 
+            "name": "France", 
+            "year": 2018
+        }
+    ], 
+    "name": "tree_data"
+}
