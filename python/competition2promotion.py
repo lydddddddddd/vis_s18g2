@@ -224,115 +224,115 @@ for i in range(9):
 		if ef1["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef1_child_name:
 				ef1_child_name.append(competition_list[i][j][1])
-				ef1["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef1["children"].append({"name" : competition_list[i][j][1], "size" : ef1["weight"] / 4})
 			if competition_list[i][j][2] not in ef1_child_name:
 				ef1_child_name.append(competition_list[i][j][2])
-				ef1["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef1["children"].append({"name" : competition_list[i][j][2], "size" : ef1["weight"] / 4})
 		if ef2["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef2_child_name:
 				ef2_child_name.append(competition_list[i][j][1])
-				ef2["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef2["children"].append({"name" : competition_list[i][j][1], "size" : ef2["weight"] / 4})
 			if competition_list[i][j][2] not in ef2_child_name:
 				ef2_child_name.append(competition_list[i][j][2])
-				ef2["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef2["children"].append({"name" : competition_list[i][j][2], "size" : ef2["weight"] / 4})
 		if ef3["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef3_child_name:
 				ef3_child_name.append(competition_list[i][j][1])
-				ef3["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef3["children"].append({"name" : competition_list[i][j][1], "size" : ef3["weight"] / 4})
 			if competition_list[i][j][2] not in ef3_child_name:
 				ef3_child_name.append(competition_list[i][j][2])
-				ef3["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef3["children"].append({"name" : competition_list[i][j][2], "size" : ef3["weight"] / 4})
 		if ef4["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef4_child_name:
 				ef4_child_name.append(competition_list[i][j][1])
-				ef4["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef4["children"].append({"name" : competition_list[i][j][1], "size" : ef4["weight"] / 4})
 			if competition_list[i][j][2] not in ef4_child_name:
 				ef4_child_name.append(competition_list[i][j][2])
-				ef4["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef4["children"].append({"name" : competition_list[i][j][2], "size" : ef4["weight"] / 4})
 		if ef5["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef5_child_name:
 				ef5_child_name.append(competition_list[i][j][1])
-				ef5["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef5["children"].append({"name" : competition_list[i][j][1], "size" : ef5["weight"] / 4})
 			if competition_list[i][j][2] not in ef5_child_name:
 				ef5_child_name.append(competition_list[i][j][2])
-				ef5["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef5["children"].append({"name" : competition_list[i][j][2], "size" : ef5["weight"] / 4})
 		if ef6["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef6_child_name:
 				ef6_child_name.append(competition_list[i][j][1])
-				ef6["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef6["children"].append({"name" : competition_list[i][j][1], "size" : ef6["weight"] / 4})
 			if competition_list[i][j][2] not in ef6_child_name:
 				ef6_child_name.append(competition_list[i][j][2])
-				ef6["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef6["children"].append({"name" : competition_list[i][j][2], "size" : ef6["weight"] / 4})
 		if ef7["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef7_child_name:
 				ef7_child_name.append(competition_list[i][j][1])
-				ef7["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef7["children"].append({"name" : competition_list[i][j][1], "size" : ef7["weight"] / 4})
 			if competition_list[i][j][2] not in ef7_child_name:
 				ef7_child_name.append(competition_list[i][j][2])
-				ef7["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef7["children"].append({"name" : competition_list[i][j][2], "size" : ef7["weight"] / 4})
 		if ef8["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef8_child_name:
 				ef8_child_name.append(competition_list[i][j][1])
-				ef8["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef8["children"].append({"name" : competition_list[i][j][1], "size" : ef8["weight"] / 4})
 			if competition_list[i][j][2] not in ef8_child_name:
 				ef8_child_name.append(competition_list[i][j][2])
-				ef8["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef8["children"].append({"name" : competition_list[i][j][2], "size" : ef8["weight"] / 4})
 		if ef9["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef9_child_name:
 				ef9_child_name.append(competition_list[i][j][1])
-				ef9["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef9["children"].append({"name" : competition_list[i][j][1], "size" : ef9["weight"] / 4})
 			if competition_list[i][j][2] not in ef9_child_name:
 				ef9_child_name.append(competition_list[i][j][2])
-				ef9["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef9["children"].append({"name" : competition_list[i][j][2], "size" : ef9["weight"] / 4})
 		if ef10["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef10_child_name:
 				ef10_child_name.append(competition_list[i][j][1])
-				ef10["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef10["children"].append({"name" : competition_list[i][j][1], "size" : ef10["weight"] / 4})
 			if competition_list[i][j][2] not in ef10_child_name:
 				ef10_child_name.append(competition_list[i][j][2])
-				ef10["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef10["children"].append({"name" : competition_list[i][j][2], "size" : ef10["weight"] / 4})
 		if ef11["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef11_child_name:
 				ef11_child_name.append(competition_list[i][j][1])
-				ef11["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef11["children"].append({"name" : competition_list[i][j][1], "size" : ef11["weight"] / 4})
 			if competition_list[i][j][2] not in ef11_child_name:
 				ef11_child_name.append(competition_list[i][j][2])
-				ef11["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef11["children"].append({"name" : competition_list[i][j][2], "size" : ef11["weight"] / 4})
 		if ef12["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef12_child_name:
 				ef12_child_name.append(competition_list[i][j][1])
-				ef12["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef12["children"].append({"name" : competition_list[i][j][1], "size" : ef12["weight"] / 4})
 			if competition_list[i][j][2] not in ef12_child_name:
 				ef12_child_name.append(competition_list[i][j][2])
-				ef12["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef12["children"].append({"name" : competition_list[i][j][2], "size" : ef12["weight"] / 4})
 		if ef13["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef13_child_name:
 				ef13_child_name.append(competition_list[i][j][1])
-				ef13["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef13["children"].append({"name" : competition_list[i][j][1], "size" : ef13["weight"] / 4})
 			if competition_list[i][j][2] not in ef13_child_name:
 				ef13_child_name.append(competition_list[i][j][2])
-				ef13["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef13["children"].append({"name" : competition_list[i][j][2], "size" : ef13["weight"] / 4})
 		if ef14["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef14_child_name:
 				ef14_child_name.append(competition_list[i][j][1])
-				ef14["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef14["children"].append({"name" : competition_list[i][j][1], "size" : ef14["weight"] / 4})
 			if competition_list[i][j][2] not in ef14_child_name:
 				ef14_child_name.append(competition_list[i][j][2])
-				ef14["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef14["children"].append({"name" : competition_list[i][j][2], "size" : ef14["weight"] / 4})
 		if ef15["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef15_child_name:
 				ef15_child_name.append(competition_list[i][j][1])
-				ef15["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef15["children"].append({"name" : competition_list[i][j][1], "size" : ef15["weight"] / 4})
 			if competition_list[i][j][2] not in ef15_child_name:
 				ef15_child_name.append(competition_list[i][j][2])
-				ef15["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef15["children"].append({"name" : competition_list[i][j][2], "size" : ef15["weight"] / 4})
 		if ef16["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef16_child_name:
 				ef16_child_name.append(competition_list[i][j][1])
-				ef16["children"].append({"name" : competition_list[i][j][1], "size" : 1})
+				ef16["children"].append({"name" : competition_list[i][j][1], "size" : ef16["weight"] / 4})
 			if competition_list[i][j][2] not in ef16_child_name:
 				ef16_child_name.append(competition_list[i][j][2])
-				ef16["children"].append({"name" : competition_list[i][j][2], "size" : 1})
+				ef16["children"].append({"name" : competition_list[i][j][2], "size" : ef16["weight"] / 4})
 	# finish
 	promotion_tree["data"].append(one_year_tree)
 
