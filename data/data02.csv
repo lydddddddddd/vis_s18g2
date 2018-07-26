@@ -1,362 +1,3 @@
-years,team_a,team_b,score_a,score_b,pk_a,pk_b
-1930,France,Mexico,4,1,0,0
-1930,Argentina,France,1,0,0,0
-1930,Chile,Mexico,3,0,0,0
-1930,Chile,France,1,0,0,0
-1930,Argentina,Mexico,6,3,0,0
-1930,Argentina,Chile,3,1,0,0
-1930,Yugoslavia,Brazil,2,1,0,0
-1930,Yugoslavia,Bolivia,4,0,0,0
-1930,Brazil,Bolivia,4,0,0,0
-1930,Romania,Peru,3,1,0,0
-1930,Uruguay,Peru,1,0,0,0
-1930,Uruguay,Romania,4,0,0,0
-1930,United States,Belgium,3,0,0,0
-1930,United States,Paraguay,3,0,0,0
-1930,Paraguay,Belgium,1,0,0,0
-1930,Argentina,United States,6,1,0,0
-1930,Uruguay,Yugoslavia,6,1,0,0
-1930,Uruguay,Argentina,4,2,0,0
-1934,Sweden,Argentina,3,2,0,0
-1934,Austria,France,3,2,0,0
-1934,Germany,Belgium,5,2,0,0
-1934,Spain,Brazil,3,1,0,0
-1934,Hungary,Egypt,4,2,0,0
-1934,Switzerland,Netherlands,3,2,0,0
-1934,Italy,United States,7,1,0,0
-1934,Czech Republic,Romania,2,1,0,0
-1934,Czech Republic,Switzerland,3,2,0,0
-1934,Germany,Sweden,2,1,0,0
-1934,Italy,Spain,1,1,0,0
-1934,Austria,Hungary,2,1,0,0
-1934,Italy,Spain,1,0,0,0
-1934,Italy,Austria,1,0,0,0
-1934,Czech Republic,Germany,3,1,0,0
-1934,Germany,Austria,3,2,0,0
-1934,Italy,Czech Republic,2,1,0,0
-1938,Hungary,Dutch East Indies,6,0,0,0
-1938,France,Belgium,3,1,0,0
-1938,Italy,Norway,2,1,0,0
-1938,Brazil,Poland,6,5,0,0
-1938,Czech Republic,Netherlands,3,0,0,0
-1938,Argentina,Sweden,3,0,0,0
-1938,Cuba,Romania,2,1,0,0
-1938,Germany,Switzerland,2,4,0,0
-1938,Switzerland,Hungary,0,2,0,0
-1938,Sweden,Cuba,8,0,0,0
-1938,France,Italy,1,3,0,0
-1938,Brazil,Czech Republic,2,1,0,0
-1938,Hungary,Sweden,5,1,0,0
-1938,Italy,Brazil,2,1,0,0
-1938,Sweden,Brazil,2,4,0,0
-1938,Hungary,Italy,2,4,0,0
-1950,Brazil,Mexico,4,0,0,0
-1950,Yugoslavia,Switzerland,3,0,0,0
-1950,Brazil,Switzerland,2,2,0,0
-1950,Yugoslavia,Mexico,4,1,0,0
-1950,Brazil,Yugoslavia,2,0,0,0
-1950,Switzerland,Mexico,2,1,0,0
-1950,England,Chile,2,0,0,0
-1950,Spain,United States,3,1,0,0
-1950,Spain,Chile,2,0,0,0
-1950,United States,England,1,0,0,0
-1950,Spain,England,1,0,0,0
-1950,Chile,United States,5,2,0,0
-1950,Sweden,Italy,3,2,0,0
-1950,Sweden,Paraguay,2,2,0,0
-1950,Italy,Paraguay,2,0,0,0
-1950,Uruguay,Bolivia,8,0,0,0
-1950,Uruguay,Spain,2,2,0,0
-1950,Brazil,Sweden,7,1,0,0
-1950,Brazil,Spain,6,1,0,0
-1950,Uruguay,Sweden,3,2,0,0
-1950,Sweden,Spain,3,1,0,0
-1950,Uruguay,Brazil,2,1,0,0
-1954,Brazil,Mexico,5,0,0,0
-1954,Yugoslavia,France,1,0,0,0
-1954,Brazil,Yugoslavia,1,1,0,0
-1954,France,Mexico,3,2,0,0
-1954,West Germany,Turkey,4,1,0,0
-1954,Hungary,South Korea,9,0,0,0
-1954,Hungary,West Germany,8,3,0,0
-1954,Turkey,South Korea,7,0,0,0
-1954,West Germany,Turkey,7,2,0,0
-1954,Uruguay,Czech Republic,2,0,0,0
-1954,Austria,Scotland,1,0,0,0
-1954,Austria,Czech Republic,5,0,0,0
-1954,Uruguay,Scotland,7,0,0,0
-1954,England,Belgium,4,4,0,0
-1954,Switzerland,Italy,2,1,0,0
-1954,England,Switzerland,2,0,0,0
-1954,Italy,Belgium,4,1,0,0
-1954,Switzerland,Italy,4,1,0,0
-1954,Austria,Switzerland,7,5,0,0
-1954,Uruguay,England,4,2,0,0
-1954,Yugoslavia,West Germany,0,2,0,0
-1954,Brazil,Hungary,2,4,0,0
-1954,West Germany,Austria,6,1,0,0
-1954,Hungary,Uruguay,4,2,0,0
-1954,Uruguay,Austria,1,3,0,0
-1954,Hungary,West Germany,2,3,0,0
-1958,West Germany,Argentina,3,1,0,0
-1958,Northern Ireland,Czech Republic,1,0,0,0
-1958,Argentina,Northern Ireland,3,1,0,0
-1958,West Germany,Czech Republic,2,2,0,0
-1958,West Germany,Northern Ireland,2,2,0,0
-1958,Czech Republic,Argentina,6,1,0,0
-1958,Northern Ireland,Czech Republic,2,1,0,0
-1958,France,Paraguay,7,3,0,0
-1958,Yugoslavia,Scotland,1,1,0,0
-1958,Yugoslavia,France,3,2,0,0
-1958,Paraguay,Scotland,3,2,0,0
-1958,France,Scotland,2,1,0,0
-1958,Paraguay,Yugoslavia,3,3,0,0
-1958,Sweden,Mexico,3,0,0,0
-1958,Hungary,Wales,1,1,0,0
-1958,Mexico,Wales,1,1,0,0
-1958,Sweden,Hungary,2,1,0,0
-1958,Sweden,Wales,0,0,0,0
-1958,Hungary,Mexico,4,0,0,0
-1958,Wales,Hungary,2,1,0,0
-1958,Brazil,Austria,3,0,0,0
-1958,Soviet Union,England,2,2,0,0
-1958,Brazil,England,0,0,0,0
-1958,Soviet Union,Austria,2,0,0,0
-1958,England,Austria,2,2,0,0
-1958,Brazil,Soviet Union,2,0,0,0
-1958,Soviet Union,England,1,0,0,0
-1958,France,Northern Ireland,4,0,0,0
-1958,Sweden,Soviet Union,2,0,0,0
-1958,Brazil,Wales,1,0,0,0
-1958,West Germany,Yugoslavia,1,0,0,0
-1958,France,Brazil,2,5,0,0
-1958,West Germany,Sweden,1,3,0,0
-1958,West Germany,France,3,6,0,0
-1958,Sweden,Brazil,2,5,0,0
-1962,Uruguay,Colombia,2,1,0,0
-1962,Soviet Union,Yugoslavia,2,0,0,0
-1962,Yugoslavia,Uruguay,3,1,0,0
-1962,Soviet Union,Colombia,4,4,0,0
-1962,Soviet Union,Uruguay,2,1,0,0
-1962,Yugoslavia,Colombia,5,0,0,0
-1962,Chile,Switzerland,3,1,0,0
-1962,West Germany,Italy,0,0,0,0
-1962,Chile,Italy,2,0,0,0
-1962,West Germany,Switzerland,2,1,0,0
-1962,West Germany,Chile,2,0,0,0
-1962,Italy,Switzerland,3,0,0,0
-1962,Brazil,Mexico,2,0,0,0
-1962,Czech Republic,Spain,1,0,0,0
-1962,Brazil,Czech Republic,0,0,0,0
-1962,Spain,Mexico,1,0,0,0
-1962,Brazil,Spain,2,1,0,0
-1962,Mexico,Czech Republic,3,1,0,0
-1962,Argentina,Bulgaria,1,0,0,0
-1962,Hungary,England,2,1,0,0
-1962,England,Argentina,3,1,0,0
-1962,Hungary,Bulgaria,6,1,0,0
-1962,Hungary,Argentina,0,0,0,0
-1962,England,Bulgaria,0,0,0,0
-1962,Chile,Soviet Union,2,1,0,0
-1962,Yugoslavia,West Germany,1,0,0,0
-1962,Brazil,England,3,1,0,0
-1962,Czech Republic,Hungary,1,0,0,0
-1962,Brazil,Chile,4,2,0,0
-1962,Czech Republic,Yugoslavia,3,1,0,0
-1962,Chile,Yugoslavia,1,0,0,0
-1962,Brazil,Czech Republic,3,1,0,0
-1966,England,Uruguay,0,0,0,0
-1966,France,Mexico,1,1,0,0
-1966,Uruguay,France,2,1,0,0
-1966,England,Mexico,2,0,0,0
-1966,Mexico,Uruguay,0,0,0,0
-1966,England,France,2,0,0,0
-1966,West Germany,Switzerland,5,0,0,0
-1966,Argentina,Spain,2,1,0,0
-1966,Spain,Switzerland,2,1,0,0
-1966,Argentina,West Germany,0,0,0,0
-1966,Argentina,Switzerland,2,0,0,0
-1966,West Germany,Spain,2,1,0,0
-1966,Brazil,Bulgaria,2,0,0,0
-1966,Portugal,Hungary,3,1,0,0
-1966,Hungary,Brazil,3,1,0,0
-1966,Portugal,Bulgaria,3,0,0,0
-1966,Portugal,Brazil,3,1,0,0
-1966,Hungary,Bulgaria,3,1,0,0
-1966,Soviet Union,North Korea,3,0,0,0
-1966,Italy,Chile,2,0,0,0
-1966,Chile,North Korea,1,1,0,0
-1966,Soviet Union,Italy,1,0,0,0
-1966,North Korea,Italy,1,0,0,0
-1966,Soviet Union,Chile,2,1,0,0
-1966,England,Argentina,1,0,0,0
-1966,West Germany,Uruguay,4,0,0,0
-1966,Soviet Union,Hungary,2,1,0,0
-1966,Portugal,North Korea,5,3,0,0
-1966,West Germany,Soviet Union,2,1,0,0
-1966,England,Portugal,2,1,0,0
-1966,Portugal,Soviet Union,2,1,0,0
-1966,England,West Germany,4,2,0,0
-1970,Mexico,Soviet Union,0,0,0,0
-1970,Belgium,El Salvador,3,0,0,0
-1970,Soviet Union,Belgium,4,1,0,0
-1970,Mexico,El Salvador,4,0,0,0
-1970,Soviet Union,El Salvador,2,0,0,0
-1970,Mexico,Belgium,1,0,0,0
-1970,Uruguay,Israel,2,0,0,0
-1970,Italy,Sweden,1,0,0,0
-1970,Uruguay,Italy,0,0,0,0
-1970,Sweden,Israel,1,1,0,0
-1970,Uruguay,Sweden,0,1,0,0
-1970,Israel,Italy,0,0,0,0
-1970,Romania,England,0,1,0,0
-1970,Czech Republic,Brazil,1,4,0,0
-1970,Romania,Czech Republic,2,1,0,0
-1970,England,Brazil,0,1,0,0
-1970,Romania,Brazil,2,3,0,0
-1970,England,Czech Republic,1,0,0,0
-1970,Peru,Bulgaria,3,2,0,0
-1970,Morocco,West Germany,1,2,0,0
-1970,Peru,Morocco,3,0,0,0
-1970,Bulgaria,West Germany,2,5,0,0
-1970,Peru,West Germany,1,3,0,0
-1970,Bulgaria,Morocco,1,1,0,0
-1970,Soviet Union,Uruguay,0,1,0,0
-1970,Italy,Mexico,4,1,0,0
-1970,Brazil,Peru,4,2,0,0
-1970,West Germany,England,3,2,0,0
-1970,Uruguay,Brazil,1,3,0,0
-1970,Italy,West Germany,4,3,0,0
-1970,Uruguay,West Germany,0,1,0,0
-1970,Brazil,Italy,4,1,0,0
-1974,West Germany,Chile,1,0,0,0
-1974,East Germany,Australia,2,0,0,0
-1974,Chile,East Germany,1,1,0,0
-1974,Australia,West Germany,0,3,0,0
-1974,Australia,Chile,0,0,0,0
-1974,East Germany,West Germany,1,0,0,0
-1974,Brazil,Yugoslavia,0,0,0,0
-1974,Zaire,Scotland,0,2,0,0
-1974,Yugoslavia,Zaire,9,0,0,0
-1974,Scotland,Brazil,0,0,0,0
-1974,Scotland,Yugoslavia,1,1,0,0
-1974,Zaire,Brazil,0,3,0,0
-1974,Uruguay,Netherlands,0,2,0,0
-1974,Sweden,Bulgaria,0,0,0,0
-1974,Netherlands,Sweden,0,0,0,0
-1974,Uruguay,Bulgaria,1,1,0,0
-1974,Netherlands,Bulgaria,4,1,0,0
-1974,Sweden,Uruguay,3,0,0,0
-1974,Italy,Haiti,3,1,0,0
-1974,Poland,Argentina,3,2,0,0
-1974,Haiti,Poland,0,7,0,0
-1974,Argentina,Italy,1,1,0,0
-1974,Argentina,Haiti,4,1,0,0
-1974,Poland,Italy,2,1,0,0
-1974,Brazil,East Germany,1,0,0,0
-1974,Netherlands,Argentina,4,0,0,0
-1974,East Germany,Netherlands,0,2,0,0
-1974,Argentina,Brazil,1,2,0,0
-1974,Argentina,East Germany,1,1,0,0
-1974,Netherlands,Brazil,2,0,0,0
-1974,Yugoslavia,West Germany,0,2,0,0
-1974,Sweden,Poland,0,1,0,0
-1974,West Germany,Sweden,4,2,0,0
-1974,Poland,Yugoslavia,2,1,0,0
-1974,Poland,West Germany,0,1,0,0
-1974,Sweden,Yugoslavia,2,1,0,0
-1974,Brazil,Poland,0,1,0,0
-1974,Netherlands,West Germany,1,2,0,0
-1978,Argentina,Hungary,2,1,0,0
-1978,Italy,France,2,1,0,0
-1978,Argentina,France,2,1,0,0
-1978,Italy,Hungary,3,1,0,0
-1978,Argentina,Italy,0,1,0,0
-1978,France,Hungary,3,1,0,0
-1978,West Germany,Poland,0,0,0,0
-1978,Tunisia,Mexico,3,1,0,0
-1978,Poland,Tunisia,1,0,0,0
-1978,West Germany,Mexico,6,0,0,0
-1978,Poland,Mexico,3,1,0,0
-1978,West Germany,Tunisia,0,0,0,0
-1978,Austria,Spain,2,1,0,0
-1978,Brazil,Sweden,1,1,0,0
-1978,Austria,Sweden,1,0,0,0
-1978,Brazil,Spain,0,0,0,0
-1978,Spain,Sweden,1,0,0,0
-1978,Brazil,Austria,1,0,0,0
-1978,Peru,Scotland,3,1,0,0
-1978,Netherlands,Iran,3,0,0,0
-1978,Scotland,Iran,1,1,0,0
-1978,Netherlands,Peru,0,0,0,0
-1978,Peru,Iran,4,1,0,0
-1978,Scotland,Netherlands,3,2,0,0
-1978,Italy,West Germany,0,0,0,0
-1978,Austria,Netherlands,1,5,0,0
-1978,Italy,Austria,1,0,0,0
-1978,Netherlands,West Germany,2,2,0,0
-1978,Italy,Netherlands,1,2,0,0
-1978,Austria,West Germany,3,2,0,0
-1978,Argentina,Poland,2,0,0,0
-1978,Peru,Brazil,0,3,0,0
-1978,Argentina,Brazil,0,0,0,0
-1978,Peru,Poland,0,1,0,0
-1978,Argentina,Peru,6,0,0,0
-1978,Poland,Brazil,1,3,0,0
-1978,Brazil,Italy,2,1,0,0
-1978,Netherlands,Argentina,1,3,0,0
-1982,Italy,Poland,0,0,0,0
-1982,Peru,Cameroon,0,0,0,0
-1982,Italy,Peru,1,1,0,0
-1982,Poland,Cameroon,0,0,0,0
-1982,Poland,Peru,5,1,0,0
-1982,Italy,Cameroon,1,1,0,0
-1982,West Germany,Algeria,1,2,0,0
-1982,Chile,Austria,0,1,0,0
-1982,West Germany,Chile,4,1,0,0
-1982,Algeria,Austria,0,2,0,0
-1982,Algeria,Chile,3,2,0,0
-1982,West Germany,Austria,1,0,0,0
-1982,Argentina,Belgium,0,1,0,0
-1982,Hungary,El Salvador,10,1,0,0
-1982,Argentina,Hungary,4,1,0,0
-1982,Belgium,El Salvador,1,0,0,0
-1982,Belgium,Hungary,1,1,0,0
-1982,Argentina,El Salvador,2,0,0,0
-1982,England,France,3,1,0,0
-1982,Czech Republic,Kuwait,1,1,0,0
-1982,England,Czech Republic,2,0,0,0
-1982,France,Kuwait,4,1,0,0
-1982,France,Czech Republic,1,1,0,0
-1982,England,Kuwait,1,0,0,0
-1982,Spain,Honduras,1,1,0,0
-1982,Yugoslavia,Northern Ireland,0,0,0,0
-1982,Spain,Yugoslavia,2,1,0,0
-1982,Honduras,Northern Ireland,1,1,0,0
-1982,Honduras,Yugoslavia,0,1,0,0
-1982,Spain,Northern Ireland,0,1,0,0
-1982,Brazil,Soviet Union,2,1,0,0
-1982,Scotland,New Zealand,5,2,0,0
-1982,Brazil,Scotland,4,1,0,0
-1982,Soviet Union,New Zealand,3,0,0,0
-1982,Soviet Union,Scotland,2,2,0,0
-1982,Brazil,New Zealand,4,0,0,0
-1982,Poland,Belgium,3,0,0,0
-1982,Belgium,Soviet Union,0,1,0,0
-1982,Soviet Union,Poland,0,0,0,0
-1982,West Germany,England,0,0,0,0
-1982,West Germany,Spain,2,1,0,0
-1982,Spain,England,0,0,0,0
-1982,Italy,Argentina,2,1,0,0
-1982,Argentina,Brazil,1,3,0,0
-1982,Italy,Brazil,3,2,0,0
-1982,Austria,France,0,1,0,0
-1982,Austria,Northern Ireland,2,2,0,0
-1982,Northern Ireland,France,1,4,0,0
-1982,Poland,Italy,0,2,0,0
-1982,West Germany,France,3,3,0,0
-1982,Poland,France,3,2,0,0
-1982,Italy,West Germany,3,1,0,0
 1986,Bulgaria,Italy,1,1,0,0
 1986,Argentina,South Korea,3,1,0,0
 1986,Italy,Argentina,1,1,0,0
@@ -370,22 +11,22 @@ years,team_a,team_b,score_a,score_b,pk_a,pk_b
 1986,Iraq,Mexico,0,1,0,0
 1986,Paraguay,Belgium,2,2,0,0
 1986,Canada,France,0,1,0,0
-1986,Soviet Union,Hungary,6,0,0,0
-1986,France,Soviet Union,1,1,0,0
+1986,Russian Federation,Hungary,6,0,0,0
+1986,France,Russian Federation,1,1,0,0
 1986,Hungary,Canada,2,0,0,0
 1986,Hungary,France,0,3,0,0
-1986,Soviet Union,Canada,2,0,0,0
+1986,Russian Federation,Canada,2,0,0,0
 1986,Spain,Brazil,0,1,0,0
-1986,Algeria,Northern Ireland,1,1,0,0
+1986,Algeria,Ireland,1,1,0,0
 1986,Brazil,Algeria,1,0,0,0
-1986,Northern Ireland,Spain,1,2,0,0
-1986,Northern Ireland,Brazil,0,3,0,0
+1986,Ireland,Spain,1,2,0,0
+1986,Ireland,Brazil,0,3,0,0
 1986,Algeria,Spain,0,3,0,0
-1986,Uruguay,West Germany,1,1,0,0
+1986,Uruguay,Germany,1,1,0,0
 1986,Scotland,Denmark,0,1,0,0
-1986,West Germany,Scotland,2,1,0,0
+1986,Germany,Scotland,2,1,0,0
 1986,Denmark,Uruguay,6,1,0,0
-1986,Denmark,West Germany,2,0,0,0
+1986,Denmark,Germany,2,0,0,0
 1986,Scotland,Uruguay,0,0,0,0
 1986,Morocco,Poland,0,0,0,0
 1986,Portugal,England,1,0,0,0
@@ -394,21 +35,21 @@ years,team_a,team_b,score_a,score_b,pk_a,pk_b
 1986,Portugal,Morocco,1,3,0,0
 1986,England,Poland,3,0,0,0
 1986,Mexico,Bulgaria,2,0,0,0
-1986,Soviet Union,Belgium,3,4,0,0
+1986,Russian Federation,Belgium,3,4,0,0
 1986,Argentina,Uruguay,1,0,0,0
 1986,Brazil,Poland,4,0,0,0
 1986,Italy,France,0,2,0,0
-1986,Morocco,West Germany,0,1,0,0
+1986,Morocco,Germany,0,1,0,0
 1986,England,Paraguay,3,0,0,0
 1986,Denmark,Spain,1,5,0,0
 1986,Brazil,France,4,5,0,0
-1986,West Germany,Mexico,4,1,0,0
+1986,Germany,Mexico,4,1,0,0
 1986,Spain,Belgium,6,5,0,0
 1986,Argentina,England,2,1,0,0
 1986,Argentina,Belgium,2,0,0,0
-1986,France,West Germany,0,2,0,0
+1986,France,Germany,0,2,0,0
 1986,France,Belgium,4,2,0,0
-1986,Argentina,West Germany,3,2,0,0
+1986,Argentina,Germany,3,2,0,0
 1990,Italy,Austria,1,0,0,0
 1990,United States,Czech Republic,1,5,0,0
 1990,Italy,United States,1,0,0,0
@@ -416,11 +57,11 @@ years,team_a,team_b,score_a,score_b,pk_a,pk_b
 1990,Italy,Czech Republic,2,0,0,0
 1990,Austria,United States,2,1,0,0
 1990,Argentina,Cameroon,0,1,0,0
-1990,Soviet Union,Romania,0,2,0,0
-1990,Argentina,Soviet Union,2,0,0,0
+1990,Russian Federation,Romania,0,2,0,0
+1990,Argentina,Russian Federation,2,0,0,0
 1990,Cameroon,Romania,2,1,0,0
 1990,Argentina,Romania,1,1,0,0
-1990,Cameroon,Soviet Union,0,4,0,0
+1990,Cameroon,Russian Federation,0,4,0,0
 1990,Brazil,Sweden,2,1,0,0
 1990,Costa Rica,Scotland,1,0,0,0
 1990,Brazil,Costa Rica,1,0,0,0
@@ -428,10 +69,10 @@ years,team_a,team_b,score_a,score_b,pk_a,pk_b
 1990,Brazil,Scotland,1,0,0,0
 1990,Sweden,Costa Rica,1,2,0,0
 1990,United Arab Emirates,Colombia,0,2,0,0
-1990,West Germany,Yugoslavia,4,1,0,0
+1990,Germany,Yugoslavia,4,1,0,0
 1990,Yugoslavia,Colombia,1,0,0,0
-1990,West Germany,United Arab Emirates,5,1,0,0
-1990,West Germany,Colombia,1,1,0,0
+1990,Germany,United Arab Emirates,5,1,0,0
+1990,Germany,Colombia,1,1,0,0
 1990,Yugoslavia,United Arab Emirates,4,1,0,0
 1990,Belgium,South Korea,2,0,0,0
 1990,Uruguay,Spain,0,0,0,0
@@ -448,19 +89,19 @@ years,team_a,team_b,score_a,score_b,pk_a,pk_b
 1990,Cameroon,Colombia,2,1,0,0
 1990,Czech Republic,Costa Rica,4,1,0,0
 1990,Brazil,Argentina,0,1,0,0
-1990,West Germany,Netherlands,2,1,0,0
+1990,Germany,Netherlands,2,1,0,0
 1990,Ireland,Romania,5,4,0,0
 1990,Italy,Uruguay,2,0,0,0
 1990,Spain,Yugoslavia,1,2,0,0
 1990,England,Belgium,1,0,0,0
 1990,Yugoslavia,Argentina,2,3,0,0
 1990,Italy,Ireland,1,0,0,0
-1990,West Germany,Czech Republic,1,0,0,0
+1990,Germany,Czech Republic,1,0,0,0
 1990,England,Cameroon,3,2,0,0
 1990,Italy,Argentina,4,5,0,0
-1990,West Germany,England,5,4,0,0
+1990,Germany,England,5,4,0,0
 1990,Italy,England,2,1,0,0
-1990,West Germany,Argentina,1,0,0,0
+1990,Germany,Argentina,1,0,0,0
 1994,United States,Switzerland,1,1,0,0
 1994,Colombia,Romania,1,3,0,0
 1994,Romania,Switzerland,1,4,0,0
@@ -468,10 +109,10 @@ years,team_a,team_b,score_a,score_b,pk_a,pk_b
 1994,United States,Romania,0,1,0,0
 1994,Switzerland,Colombia,0,2,0,0
 1994,Cameroon,Sweden,2,2,0,0
-1994,Brazil,Russia,2,0,0,0
+1994,Brazil,Russian Federation,2,0,0,0
 1994,Brazil,Cameroon,3,0,0,0
-1994,Sweden,Russia,3,1,0,0
-1994,Russia,Cameroon,6,1,0,0
+1994,Sweden,Russian Federation,3,1,0,0
+1994,Russian Federation,Cameroon,6,1,0,0
 1994,Brazil,Sweden,1,1,0,0
 1994,Germany,Bolivia,1,0,0,0
 1994,Spain,South Korea,2,2,0,0
@@ -603,7 +244,7 @@ years,team_a,team_b,score_a,score_b,pk_a,pk_b
 2002,Poland,United States,3,1,0,0
 2002,Ireland,Cameroon,1,1,0,0
 2002,Germany,Saudi Arabia,8,0,0,0
-2002,Germany,Republic of Ireland,1,1,0,0
+2002,Germany,Ireland,1,1,0,0
 2002,Cameroon,Saudi Arabia,1,0,0,0
 2002,Cameroon,Germany,0,2,0,0
 2002,Saudi Arabia,Ireland,0,3,0,0
@@ -620,11 +261,11 @@ years,team_a,team_b,score_a,score_b,pk_a,pk_b
 2002,Mexico,Italy,1,1,0,0
 2002,Ecuador,Croatia,1,0,0,0
 2002,Japan,Belgium,2,2,0,0
-2002,Russia,Tunisia,2,0,0,0
-2002,Japan,Russia,1,0,0,0
+2002,Russian Federation,Tunisia,2,0,0,0
+2002,Japan,Russian Federation,1,0,0,0
 2002,Tunisia,Belgium,1,1,0,0
 2002,Tunisia,Japan,0,2,0,0
-2002,Belgium,Russia,3,2,0,0
+2002,Belgium,Russian Federation,3,2,0,0
 2002,Germany,Paraguay,1,0,0,0
 2002,Denmark,England,0,3,0,0
 2002,Sweden,Senegal,1,2,0,0
@@ -812,11 +453,11 @@ years,team_a,team_b,score_a,score_b,pk_a,pk_b
 2014,United States,Germany,3,1,0,0
 2014,Portugal,Ghana,3,1,0,0
 2014,Belgium,Algeria,3,1,0,0
-2014,Russia,South Korea,3,1,0,0
-2014,Belgium,Russia,3,1,0,0
+2014,Russian Federation,South Korea,3,1,0,0
+2014,Belgium,Russian Federation,3,1,0,0
 2014,South Korea,Algeria,3,1,0,0
 2014,South Korea,Belgium,3,1,0,0
-2014,Algeria,Russia,3,1,0,0
+2014,Algeria,Russian Federation,3,1,0,0
 2014,Brazil,Chile,1,1,3,2
 2014,Colombia,Uruguay,2,0,0,0
 2014,Netherlands,Mexico,2,1,0,0
@@ -833,11 +474,11 @@ years,team_a,team_b,score_a,score_b,pk_a,pk_b
 2014,Netherlands,Argentina,0,0,2,4
 2014,Brazil,Netherlands,0,3,0,0
 2014,Germany,Argentina,1,0,0,0
-2018,Russia,Saudi Arabia,5,0,0,0
+2018,Russian Federation,Saudi Arabia,5,0,0,0
 2018,Egypt,Uruguay,0,1,0,0
-2018,Russia,Egypt,3,1,0,0
+2018,Russian Federation,Egypt,3,1,0,0
 2018,Uruguay,Saudi Arabia,1,0,0,0
-2018,Uruguay,Russia,3,0,0,0
+2018,Uruguay,Russian Federation,3,0,0,0
 2018,Saudi Arabia,Egypt,2,1,0,0
 2018,Morocco,Iran,0,1,0,0
 2018,Portugal,Spain,3,3,0,0
@@ -883,7 +524,7 @@ years,team_a,team_b,score_a,score_b,pk_a,pk_b
 2018,Senegal,Colombia,0,1,0,0
 2018,France,Argentina,4,3,0,0
 2018,Uruguay,Portugal,2,1,0,0
-2018,Spain,Russia,1,1,3,4
+2018,Spain,Russian Federation,1,1,3,4
 2018,Croatia,Denmark,1,1,3,2
 2018,Brazil,Mexico,2,0,0,0
 2018,Belgium,Japan,3,2,0,0
@@ -892,7 +533,7 @@ years,team_a,team_b,score_a,score_b,pk_a,pk_b
 2018,Uruguay,France,0,2,0,0
 2018,Brazil,Belgium,1,2,0,0
 2018,Sweden,England,0,2,0,0
-2018,Russia,Croatia,2,2,3,4
+2018,Russian Federation,Croatia,2,2,3,4
 2018,France,Belgium,1,0,0,0
 2018,Croatia,England,2,1,0,0
 2018,Belgium,England,2,0,0,0
