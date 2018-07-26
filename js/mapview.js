@@ -64,18 +64,27 @@ function load_map_view() {
                 .attr("d", path)
                 .attr("id", function(d,i) { return d.id; })
                 .attr("title", function(d) { return d.properties.name; })
-                .attr("fill-opacity", "0.3")
-                .style("fill", "#000099")
-                // .style("fill", function(d) { return d.properties.color; })
-                .on("mousemove", function(d) {
-                    $(this).attr("fill-opacity", "1.0")
-                    tool_tip.show(d.properties.name)
+                .attr("fill-opacity", "0.5")
+                // .style("fill", "#000099")
+                .style("fill", function(d) {
+                    if (COUNTRY_NAME.indexOf(d.properties.name) != -1) {
+                        return "#000099";
+                    }
+                    else {
+                        return "#DFDFDF";
+                    }
                 })
-                //.on("mouseover", tool_tip.show)
+                .on("mousemove", function(d) {
+                    if (COUNTRY_NAME.indexOf(d.properties.name) != -1) {
+                        $(this).attr("fill-opacity", "1.0");
+                        tool_tip.show(d.properties.name);
+                    }
+                })
                 .on("mouseout", function(d) {
-                    $(this).attr("fill-opacity", "0.3")
-                    d3.selectAll(".d3-tip").style("opacity", 0)
-                    // tool_tip.hide
+                    if (COUNTRY_NAME.indexOf(d.properties.name) != -1) {
+                        $(this).attr("fill-opacity", "0.5");
+                        d3.selectAll(".d3-tip").style("opacity", 0);
+                    }
                 })
                 .on("click", function(d) {
                     console.log(d.properties.name);

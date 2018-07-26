@@ -6,6 +6,10 @@ function init_country_name() {
         if (error) {
             console.log(error);
         }
-        console.log(csvdata);
+        // console.log(csvdata);
+        for (var i = 0; i < COUNTRY_NUM; i++) {
+            COUNTRY_NAME[i] = csvdata[i].team;
+            // console.log(String(i) + " " + COUNTRY_NAME[i])
+        }
     })
 }
