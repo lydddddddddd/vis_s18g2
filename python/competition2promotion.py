@@ -298,10 +298,10 @@ for i in range(9):
 		if ef16["name"] in competition_list[i][j]:
 			if competition_list[i][j][1] not in ef16_child_name:
 				ef16_child_name.append(competition_list[i][j][1])
-				ef16["children"].append({"name" : competition_list[i][j][1]})
+				ef16["children"].append({"name" : competition_list[i][j][1], "size" : 1})
 			if competition_list[i][j][2] not in ef16_child_name:
 				ef16_child_name.append(competition_list[i][j][2])
-				ef16["children"].append({"name" : competition_list[i][j][2]})
+				ef16["children"].append({"name" : competition_list[i][j][2], "size" : 1})
 	# finish
 	promotion_tree["data"].append(one_year_tree)
 
