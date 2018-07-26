@@ -67,7 +67,7 @@ function load_map_view() {
                 .attr("fill-opacity", "0.5")
                 // .style("fill", "#000099")
                 .style("fill", function(d) {
-                    if (COUNTRY_NAME.indexOf(d.properties.name) != -1) {
+                    if (COUNTRY_NAME.indexOf(d.properties.name) !== -1) {
                         return "#000099";
                     }
                     else {
@@ -75,22 +75,36 @@ function load_map_view() {
                     }
                 })
                 .on("mousemove", function(d) {
-                    if (COUNTRY_NAME.indexOf(d.properties.name) != -1) {
+                    if (COUNTRY_NAME.indexOf(d.properties.name) !== -1) {
                         $(this).attr("fill-opacity", "1.0");
                         tool_tip.show(d.properties.name);
                     }
                 })
                 .on("mouseout", function(d) {
-                    if (COUNTRY_NAME.indexOf(d.properties.name) != -1) {
+                    if (COUNTRY_NAME.indexOf(d.properties.name) !== -1) {
                         d3.selectAll(".d3-tip").style("opacity", 0);
-                        if (country_state[COUNTRY_NAME.indexOf(d.properties.name)] === 0) {
+                        if (country_state[COUNTRY_NAME.indexOf(d.properties.name)] === -1) {
                             $(this).attr("fill-opacity", "0.5");
                         }
                     }
                 })
                 .on("click", function(d) {
-                    if (COUNTRY_NAME.indexOf(d.properties.name) != -1) {
-                        country_state[COUNTRY_NAME.indexOf(d.properties.name)] = 1;
+                    if (COUNTRY_NAME.indexOf(d.properties.name) !== -1) {
+                        if (country_state[COUNTRY_NAME.indexOf(d.properties.name)] === -1) {
+                            if (country_id[next_country_status] !== -1) {
+                                country_state[country_id[next_country_status]] = -1;
+                            }
+                            country_id[next_country_status] = COUNTRY_NAME.indexOf(d.properties.name);
+                            country_state[COUNTRY_NAME.indexOf(d.properties.name)] = next_country_status;
+                            next_country_status = 1 - next_country_status;
+                            console.log("choose and next status: " + String(next_country_status))
+                        }
+                        else {
+                            next_country_status = country_state[COUNTRY_NAME.indexOf(d.properties.name)];
+                            country_id[next_country_status] = -1;
+                            country_state[COUNTRY_NAME.indexOf(d.properties.name)] = -1;
+                            console.log("cancel and next status: " + String(next_country_status));
+                        }
                         reload_map_view();
                         console.log(d.properties.name);
                     }

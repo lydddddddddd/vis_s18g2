@@ -3,7 +3,7 @@ function reload_map_view() {
 
 	map.selectAll(".country")
 		.attr("fill-opacity", function(d) {
-			if (country_state[COUNTRY_NAME.indexOf(d.properties.name)] === 1) {
+			if (country_state[COUNTRY_NAME.indexOf(d.properties.name)] !== -1) {
 				return "1.0";
 			}
 			else {
