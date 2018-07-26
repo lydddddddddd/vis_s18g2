@@ -48,6 +48,8 @@ for i in range(9):
 	f2["name"] = com[2]
 	f1["weight"] = one_year_tree["weight"] * (int(com[3]) + int(com[5]) + 1) / (int(com[3]) + int(com[4]) + int(com[5]) + int(com[6]) + 2)
 	f2["weight"] = one_year_tree["weight"] * (int(com[4]) + int(com[6]) + 1) / (int(com[3]) + int(com[4]) + int(com[5]) + int(com[6]) + 2)
+	f1["score"] = int(com[3]) + int(com[5])
+	f2["score"] = int(com[4]) + int(com[6])
 	f1["children"] = [{}, {}]
 	f2["children"] = [{}, {}]
 	# simifinal
@@ -72,6 +74,10 @@ for i in range(9):
 	sf2["weight"] = f1["weight"] * (int(competition_list[i][sf_p1][4]) + int(competition_list[i][sf_p1][6]) + 1) / (int(competition_list[i][sf_p1][3]) + int(competition_list[i][sf_p1][4]) + int(competition_list[i][sf_p1][5]) + int(competition_list[i][sf_p1][6]) + 2)
 	sf3["weight"] = f2["weight"] * (int(competition_list[i][sf_p2][3]) + int(competition_list[i][sf_p2][5]) + 1) / (int(competition_list[i][sf_p2][3]) + int(competition_list[i][sf_p2][4]) + int(competition_list[i][sf_p2][5]) + int(competition_list[i][sf_p2][6]) + 2)
 	sf4["weight"] = f2["weight"] * (int(competition_list[i][sf_p2][4]) + int(competition_list[i][sf_p2][6]) + 1) / (int(competition_list[i][sf_p2][3]) + int(competition_list[i][sf_p2][4]) + int(competition_list[i][sf_p2][5]) + int(competition_list[i][sf_p2][6]) + 2)
+	sf1["score"] = int(competition_list[i][sf_p1][3]) + int(competition_list[i][sf_p1][5])
+	sf2["score"] = int(competition_list[i][sf_p1][4]) + int(competition_list[i][sf_p1][6])
+	sf3["score"] = int(competition_list[i][sf_p2][3]) + int(competition_list[i][sf_p2][5])
+	sf4["score"] = int(competition_list[i][sf_p2][4]) + int(competition_list[i][sf_p2][6])
 	sf1["children"] = [{}, {}]
 	sf2["children"] = [{}, {}]
 	sf3["children"] = [{}, {}]
@@ -110,6 +116,14 @@ for i in range(9):
 	qf6["weight"] = sf3["weight"] * (int(competition_list[i][qf_p3][4]) + int(competition_list[i][qf_p3][6]) + 1) / (int(competition_list[i][qf_p3][3]) + int(competition_list[i][qf_p3][4]) + int(competition_list[i][qf_p3][5]) + int(competition_list[i][qf_p3][6]) + 2)
 	qf7["weight"] = sf4["weight"] * (int(competition_list[i][qf_p4][3]) + int(competition_list[i][qf_p4][5]) + 1) / (int(competition_list[i][qf_p4][3]) + int(competition_list[i][qf_p4][4]) + int(competition_list[i][qf_p4][5]) + int(competition_list[i][qf_p4][6]) + 2)
 	qf8["weight"] = sf4["weight"] * (int(competition_list[i][qf_p4][4]) + int(competition_list[i][qf_p4][6]) + 1) / (int(competition_list[i][qf_p4][3]) + int(competition_list[i][qf_p4][4]) + int(competition_list[i][qf_p4][5]) + int(competition_list[i][qf_p4][6]) + 2)
+	qf1["score"] = int(competition_list[i][qf_p1][3]) + int(competition_list[i][qf_p1][5])
+	qf2["score"] = int(competition_list[i][qf_p1][4]) + int(competition_list[i][qf_p1][6])
+	qf3["score"] = int(competition_list[i][qf_p2][3]) + int(competition_list[i][qf_p2][5])
+	qf4["score"] = int(competition_list[i][qf_p2][4]) + int(competition_list[i][qf_p2][6])
+	qf5["score"] = int(competition_list[i][qf_p3][3]) + int(competition_list[i][qf_p3][5])
+	qf6["score"] = int(competition_list[i][qf_p3][4]) + int(competition_list[i][qf_p3][6])
+	qf7["score"] = int(competition_list[i][qf_p4][3]) + int(competition_list[i][qf_p4][5])
+	qf8["score"] = int(competition_list[i][qf_p4][4]) + int(competition_list[i][qf_p4][6])
 	qf1["children"] = [{}, {}]
 	qf2["children"] = [{}, {}]
 	qf3["children"] = [{}, {}]
@@ -184,6 +198,22 @@ for i in range(9):
 	ef14["weight"] = qf7["weight"] * (int(competition_list[i][ef_p7][4]) + int(competition_list[i][ef_p7][6]) + 1) / (int(competition_list[i][ef_p7][3]) + int(competition_list[i][ef_p7][4]) + int(competition_list[i][ef_p7][5]) + int(competition_list[i][ef_p7][6]) + 2)
 	ef15["weight"] = qf8["weight"] * (int(competition_list[i][ef_p8][3]) + int(competition_list[i][ef_p8][5]) + 1) / (int(competition_list[i][ef_p8][3]) + int(competition_list[i][ef_p8][4]) + int(competition_list[i][ef_p8][5]) + int(competition_list[i][ef_p8][6]) + 2)
 	ef16["weight"] = qf8["weight"] * (int(competition_list[i][ef_p8][4]) + int(competition_list[i][ef_p8][6]) + 1) / (int(competition_list[i][ef_p8][3]) + int(competition_list[i][ef_p8][4]) + int(competition_list[i][ef_p8][5]) + int(competition_list[i][ef_p8][6]) + 2)
+	ef1["score"] = int(competition_list[i][ef_p1][3]) + int(competition_list[i][ef_p1][5])
+	ef2["score"] = int(competition_list[i][ef_p1][4]) + int(competition_list[i][ef_p1][6])
+	ef3["score"] = int(competition_list[i][ef_p2][3]) + int(competition_list[i][ef_p2][5])
+	ef4["score"] = int(competition_list[i][ef_p2][4]) + int(competition_list[i][ef_p2][6])
+	ef5["score"] = int(competition_list[i][ef_p3][3]) + int(competition_list[i][ef_p3][5])
+	ef6["score"] = int(competition_list[i][ef_p3][4]) + int(competition_list[i][ef_p3][6])
+	ef7["score"] = int(competition_list[i][ef_p4][3]) + int(competition_list[i][ef_p4][5])
+	ef8["score"] = int(competition_list[i][ef_p4][4]) + int(competition_list[i][ef_p4][6])
+	ef9["score"] = int(competition_list[i][ef_p5][3]) + int(competition_list[i][ef_p5][5])
+	ef10["score"] = int(competition_list[i][ef_p5][4]) + int(competition_list[i][ef_p5][6])
+	ef11["score"] = int(competition_list[i][ef_p6][3]) + int(competition_list[i][ef_p6][5])
+	ef12["score"] = int(competition_list[i][ef_p6][4]) + int(competition_list[i][ef_p6][6])
+	ef13["score"] = int(competition_list[i][ef_p7][3]) + int(competition_list[i][ef_p7][5])
+	ef14["score"] = int(competition_list[i][ef_p7][4]) + int(competition_list[i][ef_p7][6])
+	ef15["score"] = int(competition_list[i][ef_p8][3]) + int(competition_list[i][ef_p8][5])
+	ef16["score"] = int(competition_list[i][ef_p8][4]) + int(competition_list[i][ef_p8][6])
 	ef1["children"] = []
 	ef2["children"] = []
 	ef3["children"] = []
