@@ -4,15 +4,19 @@
             "children": [
                 {
                     "name": "Argentina", 
+                    "weight": 0.5714285714285714, 
                     "children": [
                         {
                             "name": "Argentina", 
+                            "weight": 0.42857142857142855, 
                             "children": [
                                 {
                                     "name": "Argentina", 
+                                    "weight": 0.2571428571428571, 
                                     "children": [
                                         {
                                             "name": "Argentina", 
+                                            "weight": 0.1714285714285714, 
                                             "children": [
                                                 {
                                                     "name": "Argentina", 
@@ -34,6 +38,7 @@
                                         }, 
                                         {
                                             "name": "Uruguay", 
+                                            "weight": 0.0857142857142857, 
                                             "children": [
                                                 {
                                                     "name": "Uruguay", 
@@ -57,9 +62,11 @@
                                 }, 
                                 {
                                     "name": "England", 
+                                    "weight": 0.17142857142857143, 
                                     "children": [
                                         {
                                             "name": "England", 
+                                            "weight": 0.13714285714285715, 
                                             "children": [
                                                 {
                                                     "name": "Portugal", 
@@ -81,6 +88,7 @@
                                         }, 
                                         {
                                             "name": "Paraguay", 
+                                            "weight": 0.03428571428571429, 
                                             "children": [
                                                 {
                                                     "name": "Paraguay", 
@@ -106,12 +114,15 @@
                         }, 
                         {
                             "name": "Belgium", 
+                            "weight": 0.14285714285714285, 
                             "children": [
                                 {
                                     "name": "Spain", 
+                                    "weight": 0.07692307692307693, 
                                     "children": [
                                         {
                                             "name": "Denmark", 
+                                            "weight": 0.019230769230769232, 
                                             "children": [
                                                 {
                                                     "name": "Scotland", 
@@ -133,6 +144,7 @@
                                         }, 
                                         {
                                             "name": "Spain", 
+                                            "weight": 0.057692307692307696, 
                                             "children": [
                                                 {
                                                     "name": "Spain", 
@@ -156,9 +168,11 @@
                                 }, 
                                 {
                                     "name": "Belgium", 
+                                    "weight": 0.06593406593406594, 
                                     "children": [
                                         {
                                             "name": "Russian Federation", 
+                                            "weight": 0.029304029304029304, 
                                             "children": [
                                                 {
                                                     "name": "Russian Federation", 
@@ -180,6 +194,7 @@
                                         }, 
                                         {
                                             "name": "Belgium", 
+                                            "weight": 0.03663003663003663, 
                                             "children": [
                                                 {
                                                     "name": "Belgium", 
@@ -207,15 +222,19 @@
                 }, 
                 {
                     "name": "Germany", 
+                    "weight": 0.42857142857142855, 
                     "children": [
                         {
                             "name": "France", 
+                            "weight": 0.10714285714285714, 
                             "children": [
                                 {
                                     "name": "Brazil", 
+                                    "weight": 0.0487012987012987, 
                                     "children": [
                                         {
                                             "name": "Brazil", 
+                                            "weight": 0.04058441558441558, 
                                             "children": [
                                                 {
                                                     "name": "Spain", 
@@ -237,6 +256,7 @@
                                         }, 
                                         {
                                             "name": "Poland", 
+                                            "weight": 0.008116883116883116, 
                                             "children": [
                                                 {
                                                     "name": "Morocco", 
@@ -260,9 +280,11 @@
                                 }, 
                                 {
                                     "name": "France", 
+                                    "weight": 0.05844155844155843, 
                                     "children": [
                                         {
                                             "name": "Italy", 
+                                            "weight": 0.014610389610389608, 
                                             "children": [
                                                 {
                                                     "name": "Bulgaria", 
@@ -284,6 +306,7 @@
                                         }, 
                                         {
                                             "name": "France", 
+                                            "weight": 0.043831168831168825, 
                                             "children": [
                                                 {
                                                     "name": "Canada", 
@@ -309,12 +332,15 @@
                         }, 
                         {
                             "name": "Germany", 
+                            "weight": 0.3214285714285714, 
                             "children": [
                                 {
                                     "name": "Germany", 
+                                    "weight": 0.22959183673469385, 
                                     "children": [
                                         {
                                             "name": "Morocco", 
+                                            "weight": 0.07653061224489795, 
                                             "children": [
                                                 {
                                                     "name": "Morocco", 
@@ -336,6 +362,7 @@
                                         }, 
                                         {
                                             "name": "Germany", 
+                                            "weight": 0.1530612244897959, 
                                             "children": [
                                                 {
                                                     "name": "Uruguay", 
@@ -359,9 +386,11 @@
                                 }, 
                                 {
                                     "name": "Mexico", 
+                                    "weight": 0.09183673469387754, 
                                     "children": [
                                         {
                                             "name": "Mexico", 
+                                            "weight": 0.06887755102040816, 
                                             "children": [
                                                 {
                                                     "name": "Belgium", 
@@ -383,6 +412,7 @@
                                         }, 
                                         {
                                             "name": "Bulgaria", 
+                                            "weight": 0.022959183673469385, 
                                             "children": [
                                                 {
                                                     "name": "Bulgaria", 
@@ -410,21 +440,26 @@
                 }
             ], 
             "name": "Argentina", 
+            "weight": 1.0, 
             "year": 1986
         }, 
         {
             "children": [
                 {
                     "name": "Germany", 
+                    "weight": 0.6666666666666666, 
                     "children": [
                         {
                             "name": "Germany", 
+                            "weight": 0.36363636363636365, 
                             "children": [
                                 {
                                     "name": "Germany", 
+                                    "weight": 0.24242424242424243, 
                                     "children": [
                                         {
                                             "name": "Germany", 
+                                            "weight": 0.14545454545454545, 
                                             "children": [
                                                 {
                                                     "name": "Germany", 
@@ -446,6 +481,7 @@
                                         }, 
                                         {
                                             "name": "Netherlands", 
+                                            "weight": 0.09696969696969697, 
                                             "children": [
                                                 {
                                                     "name": "Netherlands", 
@@ -469,9 +505,11 @@
                                 }, 
                                 {
                                     "name": "Czech Republic", 
+                                    "weight": 0.12121212121212122, 
                                     "children": [
                                         {
                                             "name": "Czech Republic", 
+                                            "weight": 0.08658008658008658, 
                                             "children": [
                                                 {
                                                     "name": "United States", 
@@ -493,6 +531,7 @@
                                         }, 
                                         {
                                             "name": "Costa Rica", 
+                                            "weight": 0.03463203463203463, 
                                             "children": [
                                                 {
                                                     "name": "Costa Rica", 
@@ -518,12 +557,15 @@
                         }, 
                         {
                             "name": "England", 
+                            "weight": 0.303030303030303, 
                             "children": [
                                 {
                                     "name": "England", 
+                                    "weight": 0.17316017316017313, 
                                     "children": [
                                         {
                                             "name": "England", 
+                                            "weight": 0.11544011544011541, 
                                             "children": [
                                                 {
                                                     "name": "England", 
@@ -545,6 +587,7 @@
                                         }, 
                                         {
                                             "name": "Belgium", 
+                                            "weight": 0.057720057720057706, 
                                             "children": [
                                                 {
                                                     "name": "Belgium", 
@@ -568,9 +611,11 @@
                                 }, 
                                 {
                                     "name": "Cameroon", 
+                                    "weight": 0.12987012987012986, 
                                     "children": [
                                         {
                                             "name": "Cameroon", 
+                                            "weight": 0.07792207792207792, 
                                             "children": [
                                                 {
                                                     "name": "Argentina", 
@@ -592,6 +637,7 @@
                                         }, 
                                         {
                                             "name": "Colombia", 
+                                            "weight": 0.051948051948051945, 
                                             "children": [
                                                 {
                                                     "name": "United Arab Emirates", 
@@ -619,15 +665,19 @@
                 }, 
                 {
                     "name": "Argentina", 
+                    "weight": 0.3333333333333333, 
                     "children": [
                         {
                             "name": "Italy", 
+                            "weight": 0.1515151515151515, 
                             "children": [
                                 {
                                     "name": "Italy", 
+                                    "weight": 0.101010101010101, 
                                     "children": [
                                         {
                                             "name": "Italy", 
+                                            "weight": 0.07575757575757575, 
                                             "children": [
                                                 {
                                                     "name": "Italy", 
@@ -649,6 +699,7 @@
                                         }, 
                                         {
                                             "name": "Uruguay", 
+                                            "weight": 0.02525252525252525, 
                                             "children": [
                                                 {
                                                     "name": "Uruguay", 
@@ -672,9 +723,11 @@
                                 }, 
                                 {
                                     "name": "Ireland", 
+                                    "weight": 0.0505050505050505, 
                                     "children": [
                                         {
                                             "name": "Ireland", 
+                                            "weight": 0.027548209366391182, 
                                             "children": [
                                                 {
                                                     "name": "England", 
@@ -696,6 +749,7 @@
                                         }, 
                                         {
                                             "name": "Romania", 
+                                            "weight": 0.022956841138659315, 
                                             "children": [
                                                 {
                                                     "name": "Russian Federation", 
@@ -721,12 +775,15 @@
                         }, 
                         {
                             "name": "Argentina", 
+                            "weight": 0.18181818181818182, 
                             "children": [
                                 {
                                     "name": "Yugoslavia", 
+                                    "weight": 0.07792207792207792, 
                                     "children": [
                                         {
                                             "name": "Spain", 
+                                            "weight": 0.03116883116883117, 
                                             "children": [
                                                 {
                                                     "name": "Uruguay", 
@@ -748,6 +805,7 @@
                                         }, 
                                         {
                                             "name": "Yugoslavia", 
+                                            "weight": 0.046753246753246755, 
                                             "children": [
                                                 {
                                                     "name": "Germany", 
@@ -771,9 +829,11 @@
                                 }, 
                                 {
                                     "name": "Argentina", 
+                                    "weight": 0.1038961038961039, 
                                     "children": [
                                         {
                                             "name": "Brazil", 
+                                            "weight": 0.03463203463203463, 
                                             "children": [
                                                 {
                                                     "name": "Brazil", 
@@ -795,6 +855,7 @@
                                         }, 
                                         {
                                             "name": "Argentina", 
+                                            "weight": 0.06926406926406926, 
                                             "children": [
                                                 {
                                                     "name": "Argentina", 
@@ -822,21 +883,26 @@
                 }
             ], 
             "name": "Germany", 
+            "weight": 1.0, 
             "year": 1990
         }, 
         {
             "children": [
                 {
                     "name": "Brazil", 
+                    "weight": 0.5714285714285714, 
                     "children": [
                         {
                             "name": "Sweden", 
+                            "weight": 0.19047619047619047, 
                             "children": [
                                 {
                                     "name": "Romania", 
+                                    "weight": 0.08658008658008658, 
                                     "children": [
                                         {
                                             "name": "Romania", 
+                                            "weight": 0.0494743351886209, 
                                             "children": [
                                                 {
                                                     "name": "Colombia", 
@@ -858,6 +924,7 @@
                                         }, 
                                         {
                                             "name": "Argentina", 
+                                            "weight": 0.03710575139146567, 
                                             "children": [
                                                 {
                                                     "name": "Argentina", 
@@ -881,9 +948,11 @@
                                 }, 
                                 {
                                     "name": "Sweden", 
+                                    "weight": 0.10389610389610389, 
                                     "children": [
                                         {
                                             "name": "Saudi Arabia", 
+                                            "weight": 0.03463203463203463, 
                                             "children": [
                                                 {
                                                     "name": "Netherlands", 
@@ -905,6 +974,7 @@
                                         }, 
                                         {
                                             "name": "Sweden", 
+                                            "weight": 0.06926406926406926, 
                                             "children": [
                                                 {
                                                     "name": "Cameroon", 
@@ -930,12 +1000,15 @@
                         }, 
                         {
                             "name": "Brazil", 
+                            "weight": 0.38095238095238093, 
                             "children": [
                                 {
                                     "name": "Netherlands", 
+                                    "weight": 0.16326530612244897, 
                                     "children": [
                                         {
                                             "name": "Netherlands", 
+                                            "weight": 0.12244897959183673, 
                                             "children": [
                                                 {
                                                     "name": "Netherlands", 
@@ -957,6 +1030,7 @@
                                         }, 
                                         {
                                             "name": "Ireland", 
+                                            "weight": 0.04081632653061224, 
                                             "children": [
                                                 {
                                                     "name": "Italy", 
@@ -980,9 +1054,11 @@
                                 }, 
                                 {
                                     "name": "Brazil", 
+                                    "weight": 0.21768707482993196, 
                                     "children": [
                                         {
                                             "name": "Brazil", 
+                                            "weight": 0.14512471655328799, 
                                             "children": [
                                                 {
                                                     "name": "Brazil", 
@@ -1004,6 +1080,7 @@
                                         }, 
                                         {
                                             "name": "United States", 
+                                            "weight": 0.07256235827664399, 
                                             "children": [
                                                 {
                                                     "name": "United States", 
@@ -1031,15 +1108,19 @@
                 }, 
                 {
                     "name": "Italy", 
+                    "weight": 0.42857142857142855, 
                     "children": [
                         {
                             "name": "Bulgaria", 
+                            "weight": 0.17142857142857143, 
                             "children": [
                                 {
                                     "name": "Bulgaria", 
+                                    "weight": 0.10285714285714284, 
                                     "children": [
                                         {
                                             "name": "Mexico", 
+                                            "weight": 0.03428571428571428, 
                                             "children": [
                                                 {
                                                     "name": "Norway", 
@@ -1061,6 +1142,7 @@
                                         }, 
                                         {
                                             "name": "Bulgaria", 
+                                            "weight": 0.06857142857142856, 
                                             "children": [
                                                 {
                                                     "name": "Nigeria", 
@@ -1084,9 +1166,11 @@
                                 }, 
                                 {
                                     "name": "Germany", 
+                                    "weight": 0.06857142857142857, 
                                     "children": [
                                         {
                                             "name": "Germany", 
+                                            "weight": 0.03918367346938776, 
                                             "children": [
                                                 {
                                                     "name": "Germany", 
@@ -1108,6 +1192,7 @@
                                         }, 
                                         {
                                             "name": "Belgium", 
+                                            "weight": 0.02938775510204082, 
                                             "children": [
                                                 {
                                                     "name": "Belgium", 
@@ -1133,12 +1218,15 @@
                         }, 
                         {
                             "name": "Italy", 
+                            "weight": 0.2571428571428571, 
                             "children": [
                                 {
                                     "name": "Italy", 
+                                    "weight": 0.15428571428571428, 
                                     "children": [
                                         {
                                             "name": "Nigeria", 
+                                            "weight": 0.06171428571428571, 
                                             "children": [
                                                 {
                                                     "name": "Nigeria", 
@@ -1160,6 +1248,7 @@
                                         }, 
                                         {
                                             "name": "Italy", 
+                                            "weight": 0.09257142857142857, 
                                             "children": [
                                                 {
                                                     "name": "Italy", 
@@ -1183,9 +1272,11 @@
                                 }, 
                                 {
                                     "name": "Spain", 
+                                    "weight": 0.10285714285714284, 
                                     "children": [
                                         {
                                             "name": "Spain", 
+                                            "weight": 0.08228571428571427, 
                                             "children": [
                                                 {
                                                     "name": "Spain", 
@@ -1207,6 +1298,7 @@
                                         }, 
                                         {
                                             "name": "Switzerland", 
+                                            "weight": 0.020571428571428567, 
                                             "children": [
                                                 {
                                                     "name": "United States", 
@@ -1234,21 +1326,26 @@
                 }
             ], 
             "name": "Brazil", 
+            "weight": 1.0, 
             "year": 1994
         }, 
         {
             "children": [
                 {
                     "name": "Brazil", 
+                    "weight": 0.2, 
                     "children": [
                         {
                             "name": "Brazil", 
+                            "weight": 0.125, 
                             "children": [
                                 {
                                     "name": "Brazil", 
+                                    "weight": 0.07142857142857142, 
                                     "children": [
                                         {
                                             "name": "Brazil", 
+                                            "weight": 0.0510204081632653, 
                                             "children": [
                                                 {
                                                     "name": "Brazil", 
@@ -1270,6 +1367,7 @@
                                         }, 
                                         {
                                             "name": "Chile", 
+                                            "weight": 0.02040816326530612, 
                                             "children": [
                                                 {
                                                     "name": "Italy", 
@@ -1293,9 +1391,11 @@
                                 }, 
                                 {
                                     "name": "Denmark", 
+                                    "weight": 0.05357142857142857, 
                                     "children": [
                                         {
                                             "name": "Nigeria", 
+                                            "weight": 0.015306122448979591, 
                                             "children": [
                                                 {
                                                     "name": "Spain", 
@@ -1317,6 +1417,7 @@
                                         }, 
                                         {
                                             "name": "Denmark", 
+                                            "weight": 0.03826530612244898, 
                                             "children": [
                                                 {
                                                     "name": "Saudi Arabia", 
@@ -1342,12 +1443,15 @@
                         }, 
                         {
                             "name": "Netherlands", 
+                            "weight": 0.07500000000000001, 
                             "children": [
                                 {
                                     "name": "Netherlands", 
+                                    "weight": 0.045000000000000005, 
                                     "children": [
                                         {
                                             "name": "Netherlands", 
+                                            "weight": 0.027000000000000003, 
                                             "children": [
                                                 {
                                                     "name": "Netherlands", 
@@ -1369,6 +1473,7 @@
                                         }, 
                                         {
                                             "name": "Yugoslavia", 
+                                            "weight": 0.018000000000000002, 
                                             "children": [
                                                 {
                                                     "name": "Yugoslavia", 
@@ -1392,9 +1497,11 @@
                                 }, 
                                 {
                                     "name": "Argentina", 
+                                    "weight": 0.030000000000000006, 
                                     "children": [
                                         {
                                             "name": "Argentina", 
+                                            "weight": 0.01666666666666667, 
                                             "children": [
                                                 {
                                                     "name": "Argentina", 
@@ -1416,6 +1523,7 @@
                                         }, 
                                         {
                                             "name": "England", 
+                                            "weight": 0.013333333333333336, 
                                             "children": [
                                                 {
                                                     "name": "England", 
@@ -1443,15 +1551,19 @@
                 }, 
                 {
                     "name": "France", 
+                    "weight": 0.8, 
                     "children": [
                         {
                             "name": "France", 
+                            "weight": 0.4800000000000001, 
                             "children": [
                                 {
                                     "name": "Italy", 
+                                    "weight": 0.21333333333333337, 
                                     "children": [
                                         {
                                             "name": "Italy", 
+                                            "weight": 0.14222222222222225, 
                                             "children": [
                                                 {
                                                     "name": "Italy", 
@@ -1473,6 +1585,7 @@
                                         }, 
                                         {
                                             "name": "Norway", 
+                                            "weight": 0.07111111111111112, 
                                             "children": [
                                                 {
                                                     "name": "Morocco", 
@@ -1496,9 +1609,11 @@
                                 }, 
                                 {
                                     "name": "France", 
+                                    "weight": 0.2666666666666667, 
                                     "children": [
                                         {
                                             "name": "France", 
+                                            "weight": 0.1777777777777778, 
                                             "children": [
                                                 {
                                                     "name": "France", 
@@ -1520,6 +1635,7 @@
                                         }, 
                                         {
                                             "name": "Paraguay", 
+                                            "weight": 0.0888888888888889, 
                                             "children": [
                                                 {
                                                     "name": "Paraguay", 
@@ -1545,12 +1661,15 @@
                         }, 
                         {
                             "name": "Croatia", 
+                            "weight": 0.32, 
                             "children": [
                                 {
                                     "name": "Germany", 
+                                    "weight": 0.064, 
                                     "children": [
                                         {
                                             "name": "Germany", 
+                                            "weight": 0.038400000000000004, 
                                             "children": [
                                                 {
                                                     "name": "Germany", 
@@ -1572,6 +1691,7 @@
                                         }, 
                                         {
                                             "name": "Mexico", 
+                                            "weight": 0.0256, 
                                             "children": [
                                                 {
                                                     "name": "South Korea", 
@@ -1595,9 +1715,11 @@
                                 }, 
                                 {
                                     "name": "Croatia", 
+                                    "weight": 0.256, 
                                     "children": [
                                         {
                                             "name": "Romania", 
+                                            "weight": 0.08533333333333333, 
                                             "children": [
                                                 {
                                                     "name": "Romania", 
@@ -1619,6 +1741,7 @@
                                         }, 
                                         {
                                             "name": "Croatia", 
+                                            "weight": 0.17066666666666666, 
                                             "children": [
                                                 {
                                                     "name": "Jamaica", 
@@ -1646,21 +1769,26 @@
                 }
             ], 
             "name": "France", 
+            "weight": 1.0, 
             "year": 1998
         }, 
         {
             "children": [
                 {
                     "name": "Germany", 
+                    "weight": 0.25, 
                     "children": [
                         {
                             "name": "Germany", 
+                            "weight": 0.16666666666666666, 
                             "children": [
                                 {
                                     "name": "Germany", 
+                                    "weight": 0.1111111111111111, 
                                     "children": [
                                         {
                                             "name": "Germany", 
+                                            "weight": 0.07407407407407407, 
                                             "children": [
                                                 {
                                                     "name": "Germany", 
@@ -1682,6 +1810,7 @@
                                         }, 
                                         {
                                             "name": "Paraguay", 
+                                            "weight": 0.037037037037037035, 
                                             "children": [
                                                 {
                                                     "name": "Paraguay", 
@@ -1705,9 +1834,11 @@
                                 }, 
                                 {
                                     "name": "United States", 
+                                    "weight": 0.05555555555555555, 
                                     "children": [
                                         {
                                             "name": "Mexico", 
+                                            "weight": 0.013888888888888888, 
                                             "children": [
                                                 {
                                                     "name": "Croatia", 
@@ -1729,6 +1860,7 @@
                                         }, 
                                         {
                                             "name": "United States", 
+                                            "weight": 0.041666666666666664, 
                                             "children": [
                                                 {
                                                     "name": "United States", 
@@ -1754,12 +1886,15 @@
                         }, 
                         {
                             "name": "South Korea", 
+                            "weight": 0.08333333333333333, 
                             "children": [
                                 {
                                     "name": "Spain", 
+                                    "weight": 0.03333333333333333, 
                                     "children": [
                                         {
                                             "name": "Spain", 
+                                            "weight": 0.018518518518518517, 
                                             "children": [
                                                 {
                                                     "name": "Spain", 
@@ -1781,6 +1916,7 @@
                                         }, 
                                         {
                                             "name": "Ireland", 
+                                            "weight": 0.014814814814814815, 
                                             "children": [
                                                 {
                                                     "name": "Ireland", 
@@ -1804,9 +1940,11 @@
                                 }, 
                                 {
                                     "name": "South Korea", 
+                                    "weight": 0.05, 
                                     "children": [
                                         {
                                             "name": "South Korea", 
+                                            "weight": 0.030000000000000006, 
                                             "children": [
                                                 {
                                                     "name": "South Korea", 
@@ -1828,6 +1966,7 @@
                                         }, 
                                         {
                                             "name": "Italy", 
+                                            "weight": 0.02, 
                                             "children": [
                                                 {
                                                     "name": "Italy", 
@@ -1855,15 +1994,19 @@
                 }, 
                 {
                     "name": "Brazil", 
+                    "weight": 0.75, 
                     "children": [
                         {
                             "name": "Brazil", 
+                            "weight": 0.5, 
                             "children": [
                                 {
                                     "name": "England", 
+                                    "weight": 0.2, 
                                     "children": [
                                         {
                                             "name": "Denmark", 
+                                            "weight": 0.04, 
                                             "children": [
                                                 {
                                                     "name": "Uruguay", 
@@ -1885,6 +2028,7 @@
                                         }, 
                                         {
                                             "name": "England", 
+                                            "weight": 0.16, 
                                             "children": [
                                                 {
                                                     "name": "England", 
@@ -1908,9 +2052,11 @@
                                 }, 
                                 {
                                     "name": "Brazil", 
+                                    "weight": 0.3, 
                                     "children": [
                                         {
                                             "name": "Brazil", 
+                                            "weight": 0.22499999999999998, 
                                             "children": [
                                                 {
                                                     "name": "Brazil", 
@@ -1932,6 +2078,7 @@
                                         }, 
                                         {
                                             "name": "Belgium", 
+                                            "weight": 0.075, 
                                             "children": [
                                                 {
                                                     "name": "Japan", 
@@ -1957,12 +2104,15 @@
                         }, 
                         {
                             "name": "Turkey", 
+                            "weight": 0.25, 
                             "children": [
                                 {
                                     "name": "Senegal", 
+                                    "weight": 0.08333333333333333, 
                                     "children": [
                                         {
                                             "name": "Sweden", 
+                                            "weight": 0.03333333333333333, 
                                             "children": [
                                                 {
                                                     "name": "England", 
@@ -1984,6 +2134,7 @@
                                         }, 
                                         {
                                             "name": "Senegal", 
+                                            "weight": 0.05, 
                                             "children": [
                                                 {
                                                     "name": "France", 
@@ -2007,9 +2158,11 @@
                                 }, 
                                 {
                                     "name": "Turkey", 
+                                    "weight": 0.16666666666666666, 
                                     "children": [
                                         {
                                             "name": "Japan", 
+                                            "weight": 0.05555555555555555, 
                                             "children": [
                                                 {
                                                     "name": "Japan", 
@@ -2031,6 +2184,7 @@
                                         }, 
                                         {
                                             "name": "Turkey", 
+                                            "weight": 0.1111111111111111, 
                                             "children": [
                                                 {
                                                     "name": "Brazil", 
@@ -2058,21 +2212,26 @@
                 }
             ], 
             "name": "Brazil", 
+            "weight": 1.0, 
             "year": 2002
         }, 
         {
             "children": [
                 {
                     "name": "Italy", 
+                    "weight": 0.5833333333333334, 
                     "children": [
                         {
                             "name": "Germany", 
+                            "weight": 0.14583333333333334, 
                             "children": [
                                 {
                                     "name": "Germany", 
+                                    "weight": 0.0875, 
                                     "children": [
                                         {
                                             "name": "Germany", 
+                                            "weight": 0.06562499999999999, 
                                             "children": [
                                                 {
                                                     "name": "Germany", 
@@ -2094,6 +2253,7 @@
                                         }, 
                                         {
                                             "name": "Sweden", 
+                                            "weight": 0.021875, 
                                             "children": [
                                                 {
                                                     "name": "Trinidad and Tobago", 
@@ -2117,9 +2277,11 @@
                                 }, 
                                 {
                                     "name": "Italy", 
+                                    "weight": 0.058333333333333334, 
                                     "children": [
                                         {
                                             "name": "Italy", 
+                                            "weight": 0.03888888888888889, 
                                             "children": [
                                                 {
                                                     "name": "Italy", 
@@ -2141,6 +2303,7 @@
                                         }, 
                                         {
                                             "name": "Australia", 
+                                            "weight": 0.019444444444444445, 
                                             "children": [
                                                 {
                                                     "name": "Australia", 
@@ -2166,12 +2329,15 @@
                         }, 
                         {
                             "name": "Italy", 
+                            "weight": 0.4375, 
                             "children": [
                                 {
                                     "name": "Italy", 
+                                    "weight": 0.35, 
                                     "children": [
                                         {
                                             "name": "Italy", 
+                                            "weight": 0.2333333333333333, 
                                             "children": [
                                                 {
                                                     "name": "Italy", 
@@ -2193,6 +2359,7 @@
                                         }, 
                                         {
                                             "name": "Australia", 
+                                            "weight": 0.11666666666666665, 
                                             "children": [
                                                 {
                                                     "name": "Australia", 
@@ -2216,9 +2383,11 @@
                                 }, 
                                 {
                                     "name": "Ukraine", 
+                                    "weight": 0.0875, 
                                     "children": [
                                         {
                                             "name": "Switzerland", 
+                                            "weight": 0.017499999999999998, 
                                             "children": [
                                                 {
                                                     "name": "France", 
@@ -2240,6 +2409,7 @@
                                         }, 
                                         {
                                             "name": "Ukraine", 
+                                            "weight": 0.06999999999999999, 
                                             "children": [
                                                 {
                                                     "name": "Spain", 
@@ -2267,15 +2437,19 @@
                 }, 
                 {
                     "name": "France", 
+                    "weight": 0.4166666666666667, 
                     "children": [
                         {
                             "name": "Portugal", 
+                            "weight": 0.1388888888888889, 
                             "children": [
                                 {
                                     "name": "England", 
+                                    "weight": 0.0462962962962963, 
                                     "children": [
                                         {
                                             "name": "England", 
+                                            "weight": 0.0308641975308642, 
                                             "children": [
                                                 {
                                                     "name": "England", 
@@ -2297,6 +2471,7 @@
                                         }, 
                                         {
                                             "name": "Ecuador", 
+                                            "weight": 0.0154320987654321, 
                                             "children": [
                                                 {
                                                     "name": "Poland", 
@@ -2320,9 +2495,11 @@
                                 }, 
                                 {
                                     "name": "Portugal", 
+                                    "weight": 0.0925925925925926, 
                                     "children": [
                                         {
                                             "name": "Portugal", 
+                                            "weight": 0.0617283950617284, 
                                             "children": [
                                                 {
                                                     "name": "Angola", 
@@ -2344,6 +2521,7 @@
                                         }, 
                                         {
                                             "name": "Netherlands", 
+                                            "weight": 0.0308641975308642, 
                                             "children": [
                                                 {
                                                     "name": "Serbia", 
@@ -2369,12 +2547,15 @@
                         }, 
                         {
                             "name": "France", 
+                            "weight": 0.2777777777777778, 
                             "children": [
                                 {
                                     "name": "Brazil", 
+                                    "weight": 0.0925925925925926, 
                                     "children": [
                                         {
                                             "name": "Brazil", 
+                                            "weight": 0.07407407407407408, 
                                             "children": [
                                                 {
                                                     "name": "Brazil", 
@@ -2396,6 +2577,7 @@
                                         }, 
                                         {
                                             "name": "Ghana", 
+                                            "weight": 0.01851851851851852, 
                                             "children": [
                                                 {
                                                     "name": "Italy", 
@@ -2419,9 +2601,11 @@
                                 }, 
                                 {
                                     "name": "France", 
+                                    "weight": 0.1851851851851852, 
                                     "children": [
                                         {
                                             "name": "Spain", 
+                                            "weight": 0.0617283950617284, 
                                             "children": [
                                                 {
                                                     "name": "Spain", 
@@ -2443,6 +2627,7 @@
                                         }, 
                                         {
                                             "name": "France", 
+                                            "weight": 0.1234567901234568, 
                                             "children": [
                                                 {
                                                     "name": "France", 
@@ -2470,21 +2655,26 @@
                 }
             ], 
             "name": "Italy", 
+            "weight": 1.0, 
             "year": 2006
         }, 
         {
             "children": [
                 {
                     "name": "Netherlands", 
+                    "weight": 0.3333333333333333, 
                     "children": [
                         {
                             "name": "Uruguay", 
+                            "weight": 0.14285714285714285, 
                             "children": [
                                 {
                                     "name": "Uruguay", 
+                                    "weight": 0.08571428571428572, 
                                     "children": [
                                         {
                                             "name": "Uruguay", 
+                                            "weight": 0.05142857142857142, 
                                             "children": [
                                                 {
                                                     "name": "Uruguay", 
@@ -2506,6 +2696,7 @@
                                         }, 
                                         {
                                             "name": "South Korea", 
+                                            "weight": 0.03428571428571429, 
                                             "children": [
                                                 {
                                                     "name": "South Korea", 
@@ -2529,9 +2720,11 @@
                                 }, 
                                 {
                                     "name": "Ghana", 
+                                    "weight": 0.05714285714285714, 
                                     "children": [
                                         {
                                             "name": "United States", 
+                                            "weight": 0.022857142857142857, 
                                             "children": [
                                                 {
                                                     "name": "England", 
@@ -2553,6 +2746,7 @@
                                         }, 
                                         {
                                             "name": "Ghana", 
+                                            "weight": 0.03428571428571429, 
                                             "children": [
                                                 {
                                                     "name": "Serbia", 
@@ -2578,12 +2772,15 @@
                         }, 
                         {
                             "name": "Netherlands", 
+                            "weight": 0.19047619047619047, 
                             "children": [
                                 {
                                     "name": "Netherlands", 
+                                    "weight": 0.11428571428571428, 
                                     "children": [
                                         {
                                             "name": "Netherlands", 
+                                            "weight": 0.06857142857142857, 
                                             "children": [
                                                 {
                                                     "name": "Netherlands", 
@@ -2605,6 +2802,7 @@
                                         }, 
                                         {
                                             "name": "Slovakia", 
+                                            "weight": 0.045714285714285714, 
                                             "children": [
                                                 {
                                                     "name": "New Zealand", 
@@ -2628,9 +2826,11 @@
                                 }, 
                                 {
                                     "name": "Brazil", 
+                                    "weight": 0.07619047619047618, 
                                     "children": [
                                         {
                                             "name": "Brazil", 
+                                            "weight": 0.060952380952380945, 
                                             "children": [
                                                 {
                                                     "name": "Brazil", 
@@ -2652,6 +2852,7 @@
                                         }, 
                                         {
                                             "name": "Chile", 
+                                            "weight": 0.015238095238095236, 
                                             "children": [
                                                 {
                                                     "name": "Honduras", 
@@ -2679,15 +2880,19 @@
                 }, 
                 {
                     "name": "Spain", 
+                    "weight": 0.6666666666666666, 
                     "children": [
                         {
                             "name": "Germany", 
+                            "weight": 0.2222222222222222, 
                             "children": [
                                 {
                                     "name": "Argentina", 
+                                    "weight": 0.037037037037037035, 
                                     "children": [
                                         {
                                             "name": "Argentina", 
+                                            "weight": 0.024691358024691357, 
                                             "children": [
                                                 {
                                                     "name": "Argentina", 
@@ -2709,6 +2914,7 @@
                                         }, 
                                         {
                                             "name": "Mexico", 
+                                            "weight": 0.012345679012345678, 
                                             "children": [
                                                 {
                                                     "name": "South Africa", 
@@ -2732,9 +2938,11 @@
                                 }, 
                                 {
                                     "name": "Germany", 
+                                    "weight": 0.1851851851851852, 
                                     "children": [
                                         {
                                             "name": "Germany", 
+                                            "weight": 0.1322751322751323, 
                                             "children": [
                                                 {
                                                     "name": "Germany", 
@@ -2756,6 +2964,7 @@
                                         }, 
                                         {
                                             "name": "England", 
+                                            "weight": 0.052910052910052914, 
                                             "children": [
                                                 {
                                                     "name": "England", 
@@ -2781,12 +2990,15 @@
                         }, 
                         {
                             "name": "Spain", 
+                            "weight": 0.4444444444444444, 
                             "children": [
                                 {
                                     "name": "Paraguay", 
+                                    "weight": 0.14814814814814814, 
                                     "children": [
                                         {
                                             "name": "Paraguay", 
+                                            "weight": 0.08888888888888888, 
                                             "children": [
                                                 {
                                                     "name": "Italy", 
@@ -2808,6 +3020,7 @@
                                         }, 
                                         {
                                             "name": "Japan", 
+                                            "weight": 0.059259259259259255, 
                                             "children": [
                                                 {
                                                     "name": "Japan", 
@@ -2831,9 +3044,11 @@
                                 }, 
                                 {
                                     "name": "Spain", 
+                                    "weight": 0.2962962962962963, 
                                     "children": [
                                         {
                                             "name": "Spain", 
+                                            "weight": 0.19753086419753085, 
                                             "children": [
                                                 {
                                                     "name": "Spain", 
@@ -2855,6 +3070,7 @@
                                         }, 
                                         {
                                             "name": "Portugal", 
+                                            "weight": 0.09876543209876543, 
                                             "children": [
                                                 {
                                                     "name": "C\u00f4te d'Ivoire", 
@@ -2882,21 +3098,26 @@
                 }
             ], 
             "name": "Spain", 
+            "weight": 1.0, 
             "year": 2010
         }, 
         {
             "children": [
                 {
                     "name": "Germany", 
+                    "weight": 0.6666666666666666, 
                     "children": [
                         {
                             "name": "Brazil", 
+                            "weight": 0.13333333333333333, 
                             "children": [
                                 {
                                     "name": "Brazil", 
+                                    "weight": 0.08, 
                                     "children": [
                                         {
                                             "name": "Brazil", 
+                                            "weight": 0.044444444444444446, 
                                             "children": [
                                                 {
                                                     "name": "Brazil", 
@@ -2918,6 +3139,7 @@
                                         }, 
                                         {
                                             "name": "Chile", 
+                                            "weight": 0.035555555555555556, 
                                             "children": [
                                                 {
                                                     "name": "Chile", 
@@ -2941,9 +3163,11 @@
                                 }, 
                                 {
                                     "name": "Colombia", 
+                                    "weight": 0.05333333333333333, 
                                     "children": [
                                         {
                                             "name": "Colombia", 
+                                            "weight": 0.039999999999999994, 
                                             "children": [
                                                 {
                                                     "name": "Colombia", 
@@ -2965,6 +3189,7 @@
                                         }, 
                                         {
                                             "name": "Uruguay", 
+                                            "weight": 0.013333333333333332, 
                                             "children": [
                                                 {
                                                     "name": "Uruguay", 
@@ -2990,12 +3215,15 @@
                         }, 
                         {
                             "name": "Germany", 
+                            "weight": 0.5333333333333333, 
                             "children": [
                                 {
                                     "name": "France", 
+                                    "weight": 0.17777777777777778, 
                                     "children": [
                                         {
                                             "name": "France", 
+                                            "weight": 0.13333333333333333, 
                                             "children": [
                                                 {
                                                     "name": "France", 
@@ -3017,6 +3245,7 @@
                                         }, 
                                         {
                                             "name": "Nigeria", 
+                                            "weight": 0.044444444444444446, 
                                             "children": [
                                                 {
                                                     "name": "Iran", 
@@ -3040,9 +3269,11 @@
                                 }, 
                                 {
                                     "name": "Germany", 
+                                    "weight": 0.35555555555555557, 
                                     "children": [
                                         {
                                             "name": "Germany", 
+                                            "weight": 0.21333333333333332, 
                                             "children": [
                                                 {
                                                     "name": "Germany", 
@@ -3064,6 +3295,7 @@
                                         }, 
                                         {
                                             "name": "Algeria", 
+                                            "weight": 0.14222222222222222, 
                                             "children": [
                                                 {
                                                     "name": "Belgium", 
@@ -3091,15 +3323,19 @@
                 }, 
                 {
                     "name": "Argentina", 
+                    "weight": 0.3333333333333333, 
                     "children": [
                         {
                             "name": "Netherlands", 
+                            "weight": 0.125, 
                             "children": [
                                 {
                                     "name": "Netherlands", 
+                                    "weight": 0.06944444444444445, 
                                     "children": [
                                         {
                                             "name": "Netherlands", 
+                                            "weight": 0.04166666666666667, 
                                             "children": [
                                                 {
                                                     "name": "Spain", 
@@ -3121,6 +3357,7 @@
                                         }, 
                                         {
                                             "name": "Mexico", 
+                                            "weight": 0.02777777777777778, 
                                             "children": [
                                                 {
                                                     "name": "Mexico", 
@@ -3144,9 +3381,11 @@
                                 }, 
                                 {
                                     "name": "Costa Rica", 
+                                    "weight": 0.05555555555555555, 
                                     "children": [
                                         {
                                             "name": "Costa Rica", 
+                                            "weight": 0.032407407407407406, 
                                             "children": [
                                                 {
                                                     "name": "Uruguay", 
@@ -3168,6 +3407,7 @@
                                         }, 
                                         {
                                             "name": "Greece", 
+                                            "weight": 0.02314814814814815, 
                                             "children": [
                                                 {
                                                     "name": "Colombia", 
@@ -3193,12 +3433,15 @@
                         }, 
                         {
                             "name": "Argentina", 
+                            "weight": 0.20833333333333331, 
                             "children": [
                                 {
                                     "name": "Argentina", 
+                                    "weight": 0.13888888888888887, 
                                     "children": [
                                         {
                                             "name": "Argentina", 
+                                            "weight": 0.09259259259259257, 
                                             "children": [
                                                 {
                                                     "name": "Argentina", 
@@ -3220,6 +3463,7 @@
                                         }, 
                                         {
                                             "name": "Switzerland", 
+                                            "weight": 0.04629629629629629, 
                                             "children": [
                                                 {
                                                     "name": "Switzerland", 
@@ -3243,9 +3487,11 @@
                                 }, 
                                 {
                                     "name": "Belgium", 
+                                    "weight": 0.06944444444444443, 
                                     "children": [
                                         {
                                             "name": "Belgium", 
+                                            "weight": 0.041666666666666664, 
                                             "children": [
                                                 {
                                                     "name": "Belgium", 
@@ -3267,6 +3513,7 @@
                                         }, 
                                         {
                                             "name": "United States", 
+                                            "weight": 0.027777777777777773, 
                                             "children": [
                                                 {
                                                     "name": "Ghana", 
@@ -3294,21 +3541,26 @@
                 }
             ], 
             "name": "Germany", 
+            "weight": 1.0, 
             "year": 2014
         }, 
         {
             "children": [
                 {
                     "name": "France", 
+                    "weight": 0.625, 
                     "children": [
                         {
                             "name": "France", 
+                            "weight": 0.4166666666666667, 
                             "children": [
                                 {
                                     "name": "Uruguay", 
+                                    "weight": 0.10416666666666667, 
                                     "children": [
                                         {
                                             "name": "Uruguay", 
+                                            "weight": 0.0625, 
                                             "children": [
                                                 {
                                                     "name": "Egypt", 
@@ -3330,6 +3582,7 @@
                                         }, 
                                         {
                                             "name": "Portugal", 
+                                            "weight": 0.04166666666666667, 
                                             "children": [
                                                 {
                                                     "name": "Portugal", 
@@ -3353,9 +3606,11 @@
                                 }, 
                                 {
                                     "name": "France", 
+                                    "weight": 0.3125, 
                                     "children": [
                                         {
                                             "name": "France", 
+                                            "weight": 0.1736111111111111, 
                                             "children": [
                                                 {
                                                     "name": "France", 
@@ -3377,6 +3632,7 @@
                                         }, 
                                         {
                                             "name": "Argentina", 
+                                            "weight": 0.1388888888888889, 
                                             "children": [
                                                 {
                                                     "name": "Argentina", 
@@ -3402,12 +3658,15 @@
                         }, 
                         {
                             "name": "Belgium", 
+                            "weight": 0.20833333333333334, 
                             "children": [
                                 {
                                     "name": "Brazil", 
+                                    "weight": 0.08333333333333334, 
                                     "children": [
                                         {
                                             "name": "Brazil", 
+                                            "weight": 0.0625, 
                                             "children": [
                                                 {
                                                     "name": "Brazil", 
@@ -3429,6 +3688,7 @@
                                         }, 
                                         {
                                             "name": "Mexico", 
+                                            "weight": 0.020833333333333336, 
                                             "children": [
                                                 {
                                                     "name": "Germany", 
@@ -3452,9 +3712,11 @@
                                 }, 
                                 {
                                     "name": "Belgium", 
+                                    "weight": 0.125, 
                                     "children": [
                                         {
                                             "name": "Belgium", 
+                                            "weight": 0.07142857142857142, 
                                             "children": [
                                                 {
                                                     "name": "Belgium", 
@@ -3476,6 +3738,7 @@
                                         }, 
                                         {
                                             "name": "Japan", 
+                                            "weight": 0.05357142857142857, 
                                             "children": [
                                                 {
                                                     "name": "Colombia", 
@@ -3503,15 +3766,19 @@
                 }, 
                 {
                     "name": "Croatia", 
+                    "weight": 0.375, 
                     "children": [
                         {
                             "name": "Croatia", 
+                            "weight": 0.225, 
                             "children": [
                                 {
                                     "name": "Russian Federation", 
+                                    "weight": 0.10384615384615385, 
                                     "children": [
                                         {
                                             "name": "Spain", 
+                                            "weight": 0.04720279720279721, 
                                             "children": [
                                                 {
                                                     "name": "Portugal", 
@@ -3533,6 +3800,7 @@
                                         }, 
                                         {
                                             "name": "Russian Federation", 
+                                            "weight": 0.056643356643356645, 
                                             "children": [
                                                 {
                                                     "name": "Russian Federation", 
@@ -3556,9 +3824,11 @@
                                 }, 
                                 {
                                     "name": "Croatia", 
+                                    "weight": 0.12115384615384615, 
                                     "children": [
                                         {
                                             "name": "Croatia", 
+                                            "weight": 0.0673076923076923, 
                                             "children": [
                                                 {
                                                     "name": "Croatia", 
@@ -3580,6 +3850,7 @@
                                         }, 
                                         {
                                             "name": "Denmark", 
+                                            "weight": 0.05384615384615385, 
                                             "children": [
                                                 {
                                                     "name": "Peru", 
@@ -3605,12 +3876,15 @@
                         }, 
                         {
                             "name": "England", 
+                            "weight": 0.15, 
                             "children": [
                                 {
                                     "name": "Sweden", 
+                                    "weight": 0.0375, 
                                     "children": [
                                         {
                                             "name": "Sweden", 
+                                            "weight": 0.024999999999999998, 
                                             "children": [
                                                 {
                                                     "name": "Sweden", 
@@ -3632,6 +3906,7 @@
                                         }, 
                                         {
                                             "name": "Switzerland", 
+                                            "weight": 0.012499999999999999, 
                                             "children": [
                                                 {
                                                     "name": "Brazil", 
@@ -3655,9 +3930,11 @@
                                 }, 
                                 {
                                     "name": "England", 
+                                    "weight": 0.11249999999999999, 
                                     "children": [
                                         {
                                             "name": "Colombia", 
+                                            "weight": 0.05113636363636364, 
                                             "children": [
                                                 {
                                                     "name": "Colombia", 
@@ -3679,6 +3956,7 @@
                                         }, 
                                         {
                                             "name": "England", 
+                                            "weight": 0.061363636363636356, 
                                             "children": [
                                                 {
                                                     "name": "Tunisia", 
@@ -3706,6 +3984,7 @@
                 }
             ], 
             "name": "France", 
+            "weight": 1.0, 
             "year": 2018
         }
     ], 
