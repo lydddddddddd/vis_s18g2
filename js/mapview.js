@@ -67,7 +67,7 @@ function load_map_view() {
                 .attr("fill-opacity", "0.3")
                 .style("fill", "#000099")
                 // .style("fill", function(d) { return d.properties.color; })
-                .on("mouseover", function(d) {
+                .on("mousemove", function(d) {
                     $(this).attr("fill-opacity", "1.0")
                     tool_tip.show(d.properties.name)
                 })

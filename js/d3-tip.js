@@ -52,8 +52,8 @@ d3.tip = function() {
         while(i--) nodel.classed(directions[i], false)
         coords = direction_callbacks[dir].apply(this)
         nodel.classed(dir, true)
-            .style('top',  (d3.event.y)+ 'px')
-            .style('left',  (d3.event.x)+ 'px')
+            .style('top',  (d3.event.y +20)+ 'px')
+            .style('left',  (d3.event.x+20)+ 'px')
         console.log(d3.event.x+ " " +d3.event.y)
         return tip
     }
