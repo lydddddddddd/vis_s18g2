@@ -385,16 +385,20 @@
                                             "name": "Bulgaria", 
                                             "children": [
                                                 {
-                                                    "name": "Bulgaria"
+                                                    "name": "Bulgaria", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Italy"
+                                                    "name": "Italy", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "South Korea"
+                                                    "name": "South Korea", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Argentina"
+                                                    "name": "Argentina", 
+                                                    "size": 1
                                                 }
                                             ]
                                         }
@@ -793,16 +797,20 @@
                                             "name": "Argentina", 
                                             "children": [
                                                 {
-                                                    "name": "Argentina"
+                                                    "name": "Argentina", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Cameroon"
+                                                    "name": "Cameroon", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Russian Federation"
+                                                    "name": "Russian Federation", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Romania"
+                                                    "name": "Romania", 
+                                                    "size": 1
                                                 }
                                             ]
                                         }
@@ -1201,16 +1209,20 @@
                                             "name": "Switzerland", 
                                             "children": [
                                                 {
-                                                    "name": "United States"
+                                                    "name": "United States", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Switzerland"
+                                                    "name": "Switzerland", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Romania"
+                                                    "name": "Romania", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Colombia"
+                                                    "name": "Colombia", 
+                                                    "size": 1
                                                 }
                                             ]
                                         }
@@ -1609,16 +1621,20 @@
                                             "name": "Croatia", 
                                             "children": [
                                                 {
-                                                    "name": "Jamaica"
+                                                    "name": "Jamaica", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Croatia"
+                                                    "name": "Croatia", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Japan"
+                                                    "name": "Japan", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Argentina"
+                                                    "name": "Argentina", 
+                                                    "size": 1
                                                 }
                                             ]
                                         }
@@ -2017,16 +2033,20 @@
                                             "name": "Turkey", 
                                             "children": [
                                                 {
-                                                    "name": "Brazil"
+                                                    "name": "Brazil", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Turkey"
+                                                    "name": "Turkey", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Costa Rica"
+                                                    "name": "Costa Rica", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "China"
+                                                    "name": "China", 
+                                                    "size": 1
                                                 }
                                             ]
                                         }
@@ -2425,16 +2445,20 @@
                                             "name": "France", 
                                             "children": [
                                                 {
-                                                    "name": "France"
+                                                    "name": "France", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Switzerland"
+                                                    "name": "Switzerland", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "South Korea"
+                                                    "name": "South Korea", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Togo"
+                                                    "name": "Togo", 
+                                                    "size": 1
                                                 }
                                             ]
                                         }
@@ -2833,16 +2857,20 @@
                                             "name": "Portugal", 
                                             "children": [
                                                 {
-                                                    "name": "C\u00f4te d'Ivoire"
+                                                    "name": "C\u00f4te d'Ivoire", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Portugal"
+                                                    "name": "Portugal", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "North Korea"
+                                                    "name": "North Korea", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Brazil"
+                                                    "name": "Brazil", 
+                                                    "size": 1
                                                 }
                                             ]
                                         }
@@ -3241,16 +3269,20 @@
                                             "name": "United States", 
                                             "children": [
                                                 {
-                                                    "name": "Ghana"
+                                                    "name": "Ghana", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "United States"
+                                                    "name": "United States", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Portugal"
+                                                    "name": "Portugal", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Germany"
+                                                    "name": "Germany", 
+                                                    "size": 1
                                                 }
                                             ]
                                         }
@@ -3649,16 +3681,20 @@
                                             "name": "England", 
                                             "children": [
                                                 {
-                                                    "name": "Tunisia"
+                                                    "name": "Tunisia", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "England"
+                                                    "name": "England", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Panama"
+                                                    "name": "Panama", 
+                                                    "size": 1
                                                 }, 
                                                 {
-                                                    "name": "Belgium"
+                                                    "name": "Belgium", 
+                                                    "size": 1
                                                 }
                                             ]
                                         }
