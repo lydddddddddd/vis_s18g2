@@ -82,12 +82,18 @@ function load_map_view() {
                 })
                 .on("mouseout", function(d) {
                     if (COUNTRY_NAME.indexOf(d.properties.name) != -1) {
-                        $(this).attr("fill-opacity", "0.5");
                         d3.selectAll(".d3-tip").style("opacity", 0);
+                        if (country_state[COUNTRY_NAME.indexOf(d.properties.name)] === 0) {
+                            $(this).attr("fill-opacity", "0.5");
+                        }
                     }
                 })
                 .on("click", function(d) {
-                    console.log(d.properties.name);
+                    if (COUNTRY_NAME.indexOf(d.properties.name) != -1) {
+                        country_state[COUNTRY_NAME.indexOf(d.properties.name)] = 1;
+                        reload_map_view();
+                        console.log(d.properties.name);
+                    }
                 });
             
         g.append("path")
@@ -95,7 +101,7 @@ function load_map_view() {
             .attr("class", "boundary")
             .attr("d", path)
             .style("fill", "none")
-            .style("stroke", "#FFFFFF")
-            .style("stroke-width", "1px");
+            .attr("stroke", "#FFFFFF")
+            .attr("stroke-width", "1px");
     });
 }

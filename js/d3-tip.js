@@ -54,7 +54,7 @@ d3.tip = function() {
         nodel.classed(dir, true)
             .style('top',  (d3.event.y +20)+ 'px')
             .style('left',  (d3.event.x+20)+ 'px')
-        console.log(d3.event.x+ " " +d3.event.y)
+        // console.log(d3.event.x+ " " +d3.event.y)
         return tip
     }
 
