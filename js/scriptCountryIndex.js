@@ -1,13 +1,11 @@
-let svgWidth = 800;
-let svgHeight = 800;
+let svgWidth = document.getElementById("line_chart_view").clientWidth;
+let svgHeight = document.getElementById("line_chart_view").clientHeight;
 let yearsTotal = [1930, 1934, 1938, 1942, 1946, 1950, 1954, 1958, 1962,
   1966, 1970, 1974, 1978, 1982, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018];
 for (let i in yearsTotal) {
   yearsTotal[i] = yearsTotal[i].toString();
 }
 let colors = ['red', 'blue', 'yellow', 'green', 'purple', 'orange', 'black'];
-
-
 
 let countries = ['France', 'Yugoslavia', 'Colombia', 'Brazil', 'England']
 //轴和网格绘制
@@ -16,15 +14,16 @@ var lines = []; //保存折线图对象
 var xMarks = [];
 var lineNames = ['French']; //保存系列名称
 var lineColor = ["#F00", "#09F", "#0F0"];
-var w = 800;
-var h = 400;
-var padding = 40;
+var w = svgWidth;
+var h = svgHeight;
+var padding = 5;
+var padding_left = 25;
 var currentLineNum = 0;
 
 //用一个变量存储标题和副标题的高度，如果没有标题什么的，就为0
 var head_height = padding;
-var title = "各球队历年总得分统计图";
-var subTitle = "1930年到2018年";
+// var title = "各球队历年总得分统计图";
+// var subTitle = "1930年到2018年";
 
 //用一个变量计算底部的高度，如果不是多系列，就为0
 var foot_height = padding;
@@ -33,17 +32,18 @@ var foot_height = padding;
 foot_height += 25;
 
 //定义画布
-var svg = d3.select("body")
+var svg = d3.select("#line_chart_view")
   .append("svg")
-  .attr("width", w)
-  .attr("height", h);
+  .attr("width", w - 2 * padding_left)
+  .attr("height", h - 2 * padding)
+  .attr("transform", "translate(" + padding_left + "," + padding + ")");
 
-var tooltip = d3.select("body").append("div")
+var tooltip = d3.select("#line_chart_view").append("div")
   .attr("class", "tooltip") //用于css设置类样式
   .attr("opacity", 0.0);
 
 //添加标题
-if (title != "") {
+/*if (title != "") {
   svg.append("g")
     .append("text")
     .text(title)
@@ -64,12 +64,12 @@ if (subTitle != "") {
     .attr("y", head_height);
 
   head_height += 20;
-}
+}*/
 
 maxdata = 25;
 
-let years = [1930, 1934, 1938, 1942, 1946, 1950, 1954, 1958, 1962, 1966,
-  1970, 1974, 1978, 1982, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018];
+let years = [1930, 1934, 1938, 1942, 1946, 1950, 1954, 1958, 1962,
+  1966, 1970, 1974, 1978, 1982, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018];
 var xScale = d3.scale.ordinal()
   .domain(years)
   .rangeRoundBands([padding, w - padding]);
@@ -140,7 +140,7 @@ var yBar = svg.append("g")
 
 
 
-d3.csv('data_01.csv', (error, data) => {
+d3.csv('data/data_01.csv', (error, data) => {
   if (error) console.log('error accured!');
   console.log(data)
 
