@@ -17,7 +17,8 @@ var lineColor = ["#F00", "#09F", "#0F0"];
 var w = svgWidth;
 var h = svgHeight;
 var padding = 5;
-var padding_left = 25;
+var padding_left = 15;
+var padding_right = 30;
 var currentLineNum = 0;
 
 //用一个变量存储标题和副标题的高度，如果没有标题什么的，就为0
@@ -34,7 +35,7 @@ foot_height += 25;
 //定义画布
 var svg = d3.select("#line_chart_view")
   .append("svg")
-  .attr("width", w - 2 * padding_left)
+  .attr("width", w - padding_left - padding_right)
   .attr("height", h - 2 * padding)
   .attr("transform", "translate(" + padding_left + "," + padding + ")");
 
@@ -72,7 +73,7 @@ let years = [1930, 1934, 1938, 1942, 1946, 1950, 1954, 1958, 1962,
   1966, 1970, 1974, 1978, 1982, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018];
 var xScale = d3.scale.ordinal()
   .domain(years)
-  .rangeRoundBands([padding, w - padding]);
+  .rangeRoundBands([padding_left, w - padding_left - padding_right]);
 
 //纵坐标轴比例尺
 var yScale = d3.scale.linear()
@@ -105,7 +106,7 @@ var yInner = d3.svg.axis()
 //添加纵轴网格线
 var yInnerBar = svg.append("g")
   .attr("class", "inner_line")
-  .attr("transform", "translate(" + padding_left + ",0)")
+  .attr("transform", "translate(" + 0 + ",0)")
   .call(yInner);
 
 //定义横轴
