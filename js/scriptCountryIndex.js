@@ -68,12 +68,13 @@ if (subTitle != "") {
 }*/
 
 maxdata = 25;
+let xTrans = 200;
 
 let years = [1930, 1934, 1938, 1942, 1946, 1950, 1954, 1958, 1962,
   1966, 1970, 1974, 1978, 1982, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014, 2018];
 var xScale = d3.scale.ordinal()
   .domain(years)
-  .rangeRoundBands([padding_left, w - padding_left - padding_right]);
+  .rangeRoundBands([padding_left, w - padding_left - padding_right - xTrans]);
 
 //纵坐标轴比例尺
 var yScale = d3.scale.linear()
@@ -92,7 +93,8 @@ var xInner = d3.svg.axis()
 //添加横轴网格线
 var xInnerBar = svg.append("g")
   .attr("class", "inner_line")
-  .attr("transform", "translate(0," + (h - foot_height) + ")")
+  // .attr("transform", "translate(0," + (h - foot_height) + ")")
+  .attr("transform", "translate(0" + xTrans + ',' + (h - foot_height) + ")")
   .call(xInner);
 
 //定义纵轴网格线
@@ -106,7 +108,7 @@ var yInner = d3.svg.axis()
 //添加纵轴网格线
 var yInnerBar = svg.append("g")
   .attr("class", "inner_line")
-  .attr("transform", "translate(" + 0 + ",0)")
+  .attr("transform", "translate(" + xTrans + ",0)")
   .call(yInner);
 
 //定义横轴
@@ -118,7 +120,7 @@ var xAxis = d3.svg.axis()
 //添加横坐标轴
 var xBar = svg.append("g")
   .attr("class", "axis")
-  .attr("transform", "translate(" + 0 +  "," + (h - foot_height) + ")")
+  .attr("transform", "translate(" + xTrans + "," + (h - foot_height) + ")")
   .call(xAxis);
 
 //通过编号获取对应的横轴标签
@@ -135,11 +137,11 @@ var yAxis = d3.svg.axis()
 //添加纵轴
 var yBar = svg.append("g")
   .attr("class", "axis")
-  .attr("transform", "translate(" + padding_left + ",0)")
+  .attr("transform", "translate(" + xTrans + ",0)")
   .call(yAxis);
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-d3.csv('data/data02.csv', (error, data) => {
+d3.csv('data/data01.csv', (error, data) => {
   if (error) console.log('error accured!');
   console.log(data)
 
@@ -267,7 +269,7 @@ d3.csv('data/data02.csv', (error, data) => {
 
   var line = d3.svg.line()
     .x(function (d) {
-      return xScale(d.x) + padding_left;
+      return xScale(d.x) + xTrans + padding_left;
     })
     .y(function (d) {
       return yScale(d.y);
@@ -294,7 +296,7 @@ d3.csv('data/data02.csv', (error, data) => {
         .attr('class', 'circle' + i)
         .attr('r', 3)
         .attr('cx', function (d) {
-          return xScale(d.x) + padding_left;
+          return xScale(d.x) + xTrans + padding_left;
         })
         .attr('cy', function (d) {
           return yScale(d.y);
@@ -302,29 +304,29 @@ d3.csv('data/data02.csv', (error, data) => {
         .attr("fill", "white")
         .attr("stroke-width", 1.5)
         .attr("stroke", colors[i])
-        // .on('mouseover', function (d) {
-        //   tooltip.html(d.y)
-        //     //设置tooltip的位置(left,top 相对于页面的距离) 
-        //     .style("left", (d3.event.pageX) + "px")
-        //     .style("top", (d3.event.pageY + 20) + "px")
-        //     .style("opacity", 1.0);
-        // })
-        // .on("mouseout", function (d) {
-        //   tooltip.style("opacity", 0.0);
-        // });
+      // .on('mouseover', function (d) {
+      //   tooltip.html(d.y)
+      //     //设置tooltip的位置(left,top 相对于页面的距离) 
+      //     .style("left", (d3.event.pageX) + "px")
+      //     .style("top", (d3.event.pageY + 20) + "px")
+      //     .style("opacity", 1.0);
+      // })
+      // .on("mouseout", function (d) {
+      //   tooltip.style("opacity", 0.0);
+      // });
 
       svg.append('text')
         .data(data)
-        .text(function (d) {return d.name})
-        .attr('x', 80)
-        .attr('y', 25 + 20 * i)
+        .text(function (d) { return d.name })
+        .attr('x', 60)
+        .attr('y', 25 + 15 * i)
 
       svg.append('rect')
         .data(data)
         .attr('width', 10)
         .attr('height', 10)
-        .attr('x', 60)
-        .attr('y', 15 + 20 * i)
+        .attr('x', 40)
+        .attr('y', 15 + 15 * i)
         .attr('fill', colors[i])
     }
   }
