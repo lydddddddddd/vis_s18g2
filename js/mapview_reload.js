@@ -36,5 +36,7 @@ function reload_map_country() {
                     }
                 })
 
-	reload_map_view()
+	reload_map_view();
+	map.selectAll(".country")
+		.attr("fill-opacity", "0.5");
 }

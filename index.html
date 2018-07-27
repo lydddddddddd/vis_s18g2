@@ -73,8 +73,10 @@
     init_country_name();
     load_map_view();
     function year_change(y){
-      current_year = y
-      sunburst_treeview.update_year(current_year)
+      current_year = y;
+      init_country_name();
+      sunburst_treeview.update_year(current_year);
+      reload_map_country();
       //修改模式
       var mode = document.getElementsByName("mode");
 
