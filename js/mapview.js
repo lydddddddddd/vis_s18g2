@@ -106,8 +106,8 @@ function load_map_view() {
                             console.log("cancel and next status: " + String(next_country_status));
                         }
                         reload_map_view();
+                        // update();
                         console.log(d.properties.name);
-
                     }
                     sunburst_treeview.update_country()
                 });

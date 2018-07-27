@@ -7,7 +7,7 @@ for (let i in yearsTotal) {
 }
 let colors = ['red', 'blue', 'yellow', 'green', 'purple', 'orange', 'black'];
 
-let countries = ['France', 'Yugoslavia', 'Colombia', 'Brazil', 'England']
+let countries = ['France', 'Croatia']
 //轴和网格绘制
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 var lines = []; //保存折线图对象
@@ -42,31 +42,6 @@ var svg = d3.select("#line_chart_view")
 var tooltip = d3.select("#line_chart_view").append("div")
   .attr("class", "tooltip") //用于css设置类样式
   .attr("opacity", 0.0);
-
-//添加标题
-/*if (title != "") {
-  svg.append("g")
-    .append("text")
-    .text(title)
-    .attr("class", "title")
-    .attr("x", w / 2)
-    .attr("y", head_height);
-
-  head_height += 30;
-}
-
-//添加副标题
-if (subTitle != "") {
-  svg.append("g")
-    .append("text")
-    .text(subTitle)
-    .attr("class", "subTitle")
-    .attr("x", w / 2)
-    .attr("y", head_height);
-
-  head_height += 20;
-}*/
-
 maxdata = 25;
 let xTrans = 200;
 
@@ -80,6 +55,15 @@ var xScale = d3.scale.ordinal()
 var yScale = d3.scale.linear()
   .domain([0, maxdata])
   .range([h - foot_height, head_height]);
+
+var line = d3.svg.line()
+  .x(function (d) {
+    return xScale(d.x) + xTrans + padding_left;
+  })
+  .y(function (d) {
+    return yScale(d.y);
+  })
+  .interpolate('linear')
 
 
 //定义横轴网格线
@@ -143,7 +127,7 @@ var yBar = svg.append("g")
 
 d3.csv('data/data01.csv', (error, data) => {
   if (error) console.log('error accured!');
-  console.log(data)
+  // console.log(data)
 
   var teamAData = d3.nest()
     .key(function (d) { return d.team_a; })
@@ -156,13 +140,13 @@ d3.csv('data/data01.csv', (error, data) => {
 
   let teamA = getCountyData(teamAData, 'score_a', 'pk_a');
   let teamB = getCountyData(teamBData, 'score_b', 'pk_b');
-  console.log(teamA)
-  console.log(teamB)
+  // console.log(teamA)
+  // console.log(teamB)
 
   let teamNames = [];
   pushTeamName(teamA, teamNames);
   pushTeamName(teamB, teamNames);
-  console.log(teamNames)
+  // console.log(teamNames)
 
   let teamTotal = [];
   for (let i = 0; i < teamNames.length; i++) {
@@ -262,24 +246,18 @@ d3.csv('data/data01.csv', (error, data) => {
     return result;
   }
 
-  let France = ChooseCountry('France');
-  let Yugoslavia = ChooseCountry('Yugoslavia');
+  // let France = ChooseCountry('France');
+  // let Yugoslavia = ChooseCountry('Yugoslavia');
 
-  console.log(getData(France))
+  // console.log(getData(France))
 
-  var line = d3.svg.line()
-    .x(function (d) {
-      return xScale(d.x) + xTrans + padding_left;
-    })
-    .y(function (d) {
-      return yScale(d.y);
-    })
-    .interpolate('linear')
+
 
   drawLines();
 
   function drawLines () {
-    console.log(countries)
+    // console.log(countries)
+
     for (let i in countries) {
       let data = getData(ChooseCountry(countries[i]));
       svg.append('path')
@@ -304,18 +282,9 @@ d3.csv('data/data01.csv', (error, data) => {
         .attr("fill", "white")
         .attr("stroke-width", 1.5)
         .attr("stroke", colors[i])
-      // .on('mouseover', function (d) {
-      //   tooltip.html(d.y)
-      //     //设置tooltip的位置(left,top 相对于页面的距离) 
-      //     .style("left", (d3.event.pageX) + "px")
-      //     .style("top", (d3.event.pageY + 20) + "px")
-      //     .style("opacity", 1.0);
-      // })
-      // .on("mouseout", function (d) {
-      //   tooltip.style("opacity", 0.0);
-      // });
 
       svg.append('text')
+        .attr('class', 'tuli')
         .data(data)
         .text(function (d) { return d.name })
         .attr('x', 60)
@@ -323,6 +292,7 @@ d3.csv('data/data01.csv', (error, data) => {
 
       svg.append('rect')
         .data(data)
+        .attr('class', 'tulifang')
         .attr('width', 10)
         .attr('height', 10)
         .attr('x', 40)
@@ -330,6 +300,47 @@ d3.csv('data/data01.csv', (error, data) => {
         .attr('fill', colors[i])
     }
   }
+
+  // document.getElementById('button').addEventListener('click', function () {
+  //   console.log('clicked')
+  // })
+
+
+
+  function update () {
+    d3.select("#line_chart_view").selectAll('.line').remove();
+    d3.select("#line_chart_view").selectAll('circle').remove();
+    d3.select("#line_chart_view").selectAll('.tuli').remove();
+    d3.select("#line_chart_view").selectAll('.tulifang').remove();
+
+    console.log('updated')
+    // countries = ['France', 'France']
+    drawLines();
+  }
+
+  let oldName = COUNTRY_NAME[country_id[0]];
+  setInterval(function () {
+    if (COUNTRY_NAME[country_id[0]] != oldName) {
+      // console.log(COUNTRY_NAME[country_id[0]])
+      if (country_id[0] == -1) {
+        countries[0] = null;
+      } else {
+        countries[0] = COUNTRY_NAME[country_id[0]];
+      }
+
+      if (country_id[1] == -1) {
+        countries[1] = null;
+      } else {
+        countries[1] = COUNTRY_NAME[country_id[1]];
+      }
+      // console.log(countries)
+      // countries.push(COUNTRY_NAME[country_id[0]]);
+      update();
+    }
+  }, 1000);
+
+
+  // update();
 })
 
 //无重复地插入数组
