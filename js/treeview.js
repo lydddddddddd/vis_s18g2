@@ -37,12 +37,13 @@ var sunburst_treeview = {
             if(error) throw error;
 
             window.global_tree_data = root; // record for update
-            console.log(root.data[0].children)
-            champion_name = root.data[0].name;
-            contest_country = root.data[0].children[0].name+" vs "+ root.data[0].children[1].name;
-            contest_score = root.data[0].children[0].score+" - "+root.data[0].children[1].score;
+            index = (current_year-1986)/4
+            console.log(root.data[index].children)
+            champion_name = root.data[index].name;
+            contest_country = root.data[index].children[0].name+" vs "+ root.data[index].children[1].name;
+            contest_score = root.data[index].children[0].score+" - "+root.data[index].children[1].score;
            
-            var path = svg.datum(root.data[0]).selectAll(".arc_path")
+            var path = svg.datum(root.data[index]).selectAll(".arc_path")
                 .data(partition.nodes)
                 .enter().append("path")
                 .attr("class","arc_path")
@@ -53,6 +54,9 @@ var sunburst_treeview = {
                     //console.log(d.name)
                     //console.log(d.children)
                     //console.log(d.parent)
+                    if(current_country_list.indexOf(d.name) == -1){
+                        current_country_list.push(d.name)
+                    }
                     if(d.children || d.name == d.parent.name){
                         if(!d.parent){
                             return "white"
@@ -107,7 +111,7 @@ var sunburst_treeview = {
                     }
                 })
                 .each(stash);
-            
+            console.log(current_country_list)
             console.log(champion_name)
             var contest_country_text = svg.append("text")
                                     .attr("class","contest_text")
@@ -199,6 +203,9 @@ var sunburst_treeview = {
                     //console.log(d.name)
                     //console.log(d.children)
                     //console.log(d.parent)
+                if(current_country_list.indexOf(d.name) == -1){
+                        current_country_list.push(d.name)
+                }
                 if(d.children || d.name == d.parent.name){
                     if(!d.parent){
                         return "white"
