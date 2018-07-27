@@ -245,6 +245,7 @@ var sunburst_treeview = {
                     //console.log(d.parent)
                 if(current_country_list.indexOf(d.name) == -1){
                         current_country_list.push(d.name)
+                        current_color_list.push(color(d.name))
                 }
                 if(d.children || d.name == d.parent.name){
                     if(!d.parent){

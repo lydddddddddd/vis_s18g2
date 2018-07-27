@@ -5,6 +5,7 @@ var country_id = new Array();
 var next_country_status = 0;
 var current_year = 2018;
 var current_country_list = new Array()
+var current_color_list = new Array()
 function init_country_name() {
     country_id[0] = -1;
     country_id[1] = -1;
