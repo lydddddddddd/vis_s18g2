@@ -105,7 +105,7 @@ var yInner = d3.svg.axis()
 //添加纵轴网格线
 var yInnerBar = svg.append("g")
   .attr("class", "inner_line")
-  .attr("transform", "translate(" + padding + ",0)")
+  .attr("transform", "translate(" + padding_left + ",0)")
   .call(yInner);
 
 //定义横轴
@@ -117,7 +117,7 @@ var xAxis = d3.svg.axis()
 //添加横坐标轴
 var xBar = svg.append("g")
   .attr("class", "axis")
-  .attr("transform", "translate(0," + (h - foot_height) + ")")
+  .attr("transform", "translate(" + padding_left +  "," + (h - foot_height) + ")")
   .call(xAxis);
 
 //通过编号获取对应的横轴标签
@@ -134,7 +134,7 @@ var yAxis = d3.svg.axis()
 //添加纵轴
 var yBar = svg.append("g")
   .attr("class", "axis")
-  .attr("transform", "translate(" + padding + ",0)")
+  .attr("transform", "translate(" + padding_left + ",0)")
   .call(yAxis);
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -268,7 +268,7 @@ d3.csv('data/data_01.csv', (error, data) => {
 
   var line = d3.svg.line()
     .x(function (d) {
-      return xScale(d.x) + 15;
+      return xScale(d.x) + padding_left;
     })
     .y(function (d) {
       return yScale(d.y);
@@ -295,7 +295,7 @@ d3.csv('data/data_01.csv', (error, data) => {
         .attr('class', 'circle' + i)
         .attr('r', 3)
         .attr('cx', function (d) {
-          return xScale(d.x) + 15;
+          return xScale(d.x) + padding_left;
         })
         .attr('cy', function (d) {
           return yScale(d.y);
