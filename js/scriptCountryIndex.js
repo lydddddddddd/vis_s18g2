@@ -139,9 +139,7 @@ var yBar = svg.append("g")
   .call(yAxis);
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
-
-d3.csv('data/data_01.csv', (error, data) => {
+d3.csv('data/data02.csv', (error, data) => {
   if (error) console.log('error accured!');
   console.log(data)
 
@@ -304,16 +302,16 @@ d3.csv('data/data_01.csv', (error, data) => {
         .attr("fill", "white")
         .attr("stroke-width", 1.5)
         .attr("stroke", colors[i])
-        .on('mouseover', function (d) {
-          tooltip.html(d.y)
-            //设置tooltip的位置(left,top 相对于页面的距离) 
-            .style("left", (d3.event.pageX) + "px")
-            .style("top", (d3.event.pageY + 20) + "px")
-            .style("opacity", 1.0);
-        })
-        .on("mouseout", function (d) {
-          tooltip.style("opacity", 0.0);
-        });
+        // .on('mouseover', function (d) {
+        //   tooltip.html(d.y)
+        //     //设置tooltip的位置(left,top 相对于页面的距离) 
+        //     .style("left", (d3.event.pageX) + "px")
+        //     .style("top", (d3.event.pageY + 20) + "px")
+        //     .style("opacity", 1.0);
+        // })
+        // .on("mouseout", function (d) {
+        //   tooltip.style("opacity", 0.0);
+        // });
 
       svg.append('text')
         .data(data)
