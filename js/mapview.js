@@ -67,7 +67,7 @@ function load_map_view() {
                 .attr("fill-opacity", "0.5")
                 // .style("fill", "#000099")
                 .style("fill", function(d) {
-                    if (COUNTRY_NAME.indexOf(d.properties.name) !== -1) {
+                    if (COUNTRY_NAME.indexOf(d.properties.name) !== -1 && current_country_list.indexOf(d.properties.name) !== -1) {
                         return "#000099";
                     }
                     else {
@@ -89,7 +89,7 @@ function load_map_view() {
                     }
                 })
                 .on("click", function(d) {
-                    if (COUNTRY_NAME.indexOf(d.properties.name) !== -1) {
+                    if (COUNTRY_NAME.indexOf(d.properties.name) !== -1  && current_country_list.indexOf(d.properties.name) !== -1) {
                         if (country_state[COUNTRY_NAME.indexOf(d.properties.name)] === -1) {
                             if (country_id[next_country_status] !== -1) {
                                 country_state[country_id[next_country_status]] = -1;

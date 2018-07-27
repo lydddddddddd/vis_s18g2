@@ -229,7 +229,9 @@ var sunburst_treeview = {
         root = window.global_tree_data
         contest_country = root.data[index].children[0].name+" vs "+ root.data[index].children[1].name;
         contest_score = root.data[index].children[0].score+" - "+root.data[index].children[1].score;
-           
+        
+        current_country_list = [];
+
         var path = svg.datum(root.data[index]).selectAll(".arc_path")
             .data(partition.nodes)
             .enter().append("path")
@@ -347,7 +349,7 @@ var sunburst_treeview = {
                 .duration(1500)
                 .attrTween("d", arcTween);
         })
-           
+        
         function stash(d) {
             d.x0 = d.x;
             d.dx0 = d.dx;
