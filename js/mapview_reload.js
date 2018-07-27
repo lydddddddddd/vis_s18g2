@@ -21,3 +21,20 @@ function reload_map_view() {
 			}
 		});*/
 }
+
+function reload_map_country() {
+	map = d3.select("#map_view");
+
+	map.selectAll(".country")
+		.style("fill", function(d) {
+                    // console.log(current_country_list);
+                    if (COUNTRY_NAME.indexOf(d.properties.name) !== -1 && current_country_list.indexOf(d.properties.name) !== -1) {
+                        return "#000099";
+                    }
+                    else {
+                        return "#DFDFDF";
+                    }
+                })
+
+	reload_map_view()
+}
