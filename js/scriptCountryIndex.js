@@ -117,7 +117,7 @@ var xAxis = d3.svg.axis()
 //添加横坐标轴
 var xBar = svg.append("g")
   .attr("class", "axis")
-  .attr("transform", "translate(" + padding_left +  "," + (h - foot_height) + ")")
+  .attr("transform", "translate(" + 0 +  "," + (h - foot_height) + ")")
   .call(xAxis);
 
 //通过编号获取对应的横轴标签
