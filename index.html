@@ -34,6 +34,18 @@
     <!-- tree -->
     <label><input type="radio" name="mode" value="score"> Score</label>
    <label><input type="radio" name="mode" value="count" checked> Count</label>
+   <select id = "current_time" onchange = "year_change(this.options[this.options.selectedIndex].value)">
+  <option value=1986>1986</option>
+  <option value=1990>1990</option>
+  <option value=1994>1994</option>
+  <option value=1998>1998</option>
+   <option value=2002>2002</option>
+  <option value=2006>2006</option>
+  <option value=2010>2010</option>
+  <option value=2014>2014</option>
+  <option value=2018 selected = "selected">2018</option>
+</select>
+  
     </div>
     <div class = "kuang" id = "map_view" style = "position: absolute; top: 0%; left: 42%; width: 58%; height: 100%; margin: 0px; padding: 0px;">
     <!-- map -->
@@ -60,7 +72,20 @@
   <script>
     init_country_name();
     load_map_view();
+    function year_change(y){
+      current_year = y
+      sunburst_treeview.update_year(current_year)
+      //修改模式
+      var mode = document.getElementsByName("mode");
 
+      for(var i=0;i<mode.length;i++)
+      {
+        console.log(mode[i].value)
+        if(mode[i].value=="count")//这个2即为你所要找的input的值
+        mode[i].checked = "checked";
+      }
+
+    }
   </script>
 
 
