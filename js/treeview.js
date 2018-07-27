@@ -109,6 +109,42 @@ var sunburst_treeview = {
                                             
                         contest_score_text.text(contest_score);
                     }
+                    console.log("test")
+                    if (COUNTRY_NAME.indexOf(d.name) !== -1) {
+                        if (country_state[COUNTRY_NAME.indexOf(d.name)] === -1) {
+                            if (country_id[next_country_status] !== -1) {
+                                country_state[country_id[next_country_status]] = -1;
+                            }
+                            country_id[next_country_status] = COUNTRY_NAME.indexOf(d.name);
+                            country_state[COUNTRY_NAME.indexOf(d.name)] = next_country_status;
+                            next_country_status = 1 - next_country_status;
+                            console.log("choose and next status: " + String(next_country_status))
+                            selectedpath = d3.selectAll(".arc_path")
+                            selectedpath.style("opacity",function(dd){
+                                if (COUNTRY_NAME.indexOf(dd.name) != country_id[0] && COUNTRY_NAME.indexOf(dd.name)!= country_id[1]){
+                                    return 0.2
+                                }
+                                else
+                                    return 1
+                            })
+                        }
+                        else {
+                            next_country_status = country_state[COUNTRY_NAME.indexOf(d.name)];
+                            country_id[next_country_status] = -1;
+                            country_state[COUNTRY_NAME.indexOf(d.name)] = -1;
+                            console.log("cancel and next status: " + String(next_country_status));
+                            selectedpath = d3.selectAll(".arc_path")
+                            selectedpath.style("opacity", function(dd){
+                                if (COUNTRY_NAME.indexOf(dd.name) == country_id[0] || COUNTRY_NAME.indexOf(dd.name)== country_id[1] || (country_id[0]+country_id[1] == -2)){
+                                    return 1
+                                }
+                                else
+                                    return 0.2
+                            })
+                        }
+                        reload_map_view();
+                     
+                    }
                 })
                 .each(stash);
             console.log(current_country_list)
@@ -136,7 +172,7 @@ var sunburst_treeview = {
                     .duration(1500)
                     .attrTween("d", arcTween);
             })
-            //sunburst_treeview.update_year(2018)
+            //sunburst_treeview.update_year(2006)
         })
         function stash(d) {
             d.x0 = d.x;
@@ -164,8 +200,10 @@ var sunburst_treeview = {
             width = sunburstWidth - margin.left - margin.right,
             height = sunburstWidth - margin.top - margin.bottom;
         d3.select("#tree_svg").remove();
+        d3.selectAll(".contest_text").remove();
         var  radius = Math.min(width, height) / 2-55,
             color = d3.scale.category20c();
+
         var svg = d3.select("#tree_view").append("svg")
             .attr("id","tree_svg")
             .attr("width",width)
@@ -244,6 +282,44 @@ var sunburst_treeview = {
                                             
                     contest_score_text.text(contest_score);
                 }
+                console.log("test")
+                if (COUNTRY_NAME.indexOf(d.name) !== -1) {
+                        if (country_state[COUNTRY_NAME.indexOf(d.name)] === -1) {
+                            if (country_id[next_country_status] !== -1) {
+                                country_state[country_id[next_country_status]] = -1;
+                            }
+                            country_id[next_country_status] = COUNTRY_NAME.indexOf(d.name);
+                            country_state[COUNTRY_NAME.indexOf(d.name)] = next_country_status;
+                            next_country_status = 1 - next_country_status;
+                            console.log("choose and next status: " + String(next_country_status))
+                            selectedpath = d3.selectAll(".arc_path")
+                            selectedpath.style("opacity",function(dd){
+                                if (COUNTRY_NAME.indexOf(dd.name) != country_id[0] && COUNTRY_NAME.indexOf(dd.name)!= country_id[1]){
+                                    return 0.2
+                                }
+                                else
+                                    return 1
+                            })
+                        }
+                        else {
+                            next_country_status = country_state[COUNTRY_NAME.indexOf(d.name)];
+                            country_id[next_country_status] = -1;
+                            country_state[COUNTRY_NAME.indexOf(d.name)] = -1;
+                            console.log("cancel and next status: " + String(next_country_status));
+                            selectedpath = d3.selectAll(".arc_path")
+                            selectedpath.style("opacity", function(dd){
+                                if (COUNTRY_NAME.indexOf(dd.name) == country_id[0] || COUNTRY_NAME.indexOf(dd.name)== country_id[1] || (country_id[0]+country_id[1] == -2)){
+                                    return 1
+                                }
+                                else
+                                    return 0.2
+                            })
+                        }
+                        reload_map_view();
+                     
+                }
+
+
             })
             .each(stash);
             
@@ -285,6 +361,16 @@ var sunburst_treeview = {
                 return arc(b);
             };
         }
+    },
+    update_country:function(){
+        selectedpath = d3.selectAll(".arc_path")
+        selectedpath.style("opacity", function(dd){
+            if (COUNTRY_NAME.indexOf(dd.name) == country_id[0] || COUNTRY_NAME.indexOf(dd.name)== country_id[1] || (country_id[0]+country_id[1] == -2)){
+                return 1
+            }
+            else
+                return 0.2
+        })
     }
 }
 sunburst_treeview.initialize();
