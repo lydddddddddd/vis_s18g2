@@ -107,7 +107,9 @@ function load_map_view() {
                         }
                         reload_map_view();
                         console.log(d.properties.name);
+
                     }
+                    sunburst_treeview.update_country()
                 });
             
         g.append("path")
